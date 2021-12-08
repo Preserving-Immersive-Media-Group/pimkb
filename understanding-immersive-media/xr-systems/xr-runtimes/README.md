@@ -1,0 +1,10 @@
+# XR Runtime
+
+An XR runtime is a software package which provides XR applications with access to XR platforms and devices. It can also implement functionality. Examples include the Oculus runtime and the SteamVR runtime. An XR runtimes can provide XR applications with a variety of interfaces with which to interact with them, which might conform to a standard such as [OpenXR](openxr.md) or OpenVR.&#x20;
+
+| Runtime Name   | OpenXR Support | OS Support                                                 | Download Packages                                                                                                                                                                                                                              |
+| -------------- | -------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oculus Runtime | Yes            | Windows 10                                                 | Current version only downloadable through Oculus client. Legacy versions available on [https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/](https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/) |
+| SteamVR        | Yes            | <p>Windows 7 (SP1)</p><p>Windows 8.1 </p><p>Windows 10</p> | Can only be downloaded through Steam (see [Archiving XR Runtimes](../../../acquisition-resources/software-archiving-guides/archiving-an-xr-runtime.md)).                                                                                       |
+| Monado         | Yes            | Linux                                                      | Source code available from [GitLab](https://gitlab.freedesktop.org/monado/monado), build packages available for Debian and Ubuntu.                                                                                                             |
+
