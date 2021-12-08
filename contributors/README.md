@@ -6,6 +6,12 @@ description: >-
 
 # ❤ Contributors
 
+## Guide to Contributing
+
+
+
+## List of Contributors
+
 {% content-ref url="sasha-arden.md" %}
 [sasha-arden.md](sasha-arden.md)
 {% endcontent-ref %}

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [➡ Overview](README.md)
+* [➡ Preserving Immersive Media Knowledge Base](README.md)
 * [⁉ Glossary](glossary.md)
 * [📚 Bibliography](bibliography.md)
 * [🧐 Open Questions](open-questions.md)
