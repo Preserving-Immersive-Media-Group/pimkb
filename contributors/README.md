@@ -13,6 +13,8 @@ The Knowledge Base in a collaborative and community-driven space for sharing any
 * Tom Ensom: tom.ensom \[at] tate.org.uk
 * Jack McConchie: jack.mcconchie \[at] tate.org.uk
 
+As a contributor, you agree to the [Code of Conduct](../code-of-conduct.md) and that any content you create on this GitBook site will be shared according to our [Licence](../licence.md) terms.
+
 ## List of Contributors
 
 {% content-ref url="sasha-arden.md" %}
