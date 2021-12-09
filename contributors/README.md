@@ -17,12 +17,12 @@ As a contributor, you agree to the [Code of Conduct](../code-of-conduct.md) and 
 
 ## List of Contributors
 
-{% content-ref url="rasa-bocyte.md" %}
-[rasa-bocyte.md](rasa-bocyte.md)
-{% endcontent-ref %}
-
 {% content-ref url="sasha-arden.md" %}
 [sasha-arden.md](sasha-arden.md)
+{% endcontent-ref %}
+
+{% content-ref url="rasa-bocyte.md" %}
+[rasa-bocyte.md](rasa-bocyte.md)
 {% endcontent-ref %}
 
 {% content-ref url="tom-ensom.md" %}
@@ -40,3 +40,4 @@ As a contributor, you agree to the [Code of Conduct](../code-of-conduct.md) and 
 {% content-ref url="jesse-de-vos.md" %}
 [jesse-de-vos.md](jesse-de-vos.md)
 {% endcontent-ref %}
+
