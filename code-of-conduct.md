@@ -44,7 +44,7 @@ The Preserving Immersive Media Group prioritizes marginalized people’s safety 
 
 ### Reporting <a href="#reporting" id="reporting"></a>
 
-If you are being harassed by a member of Preserving Immersive Media Group, notice that someone else is being harassed, or have any other concerns, please contact the response team at `<add here>`. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of Preserving Immersive Media Group, notice that someone else is being harassed, or have any other concerns, please contact a member of the [response team](code-of-conduct.md#consequences-1). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Preserving Immersive Media Group spaces, but if you are being harassed by a member of Preserving Immersive Media Group outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Preserving Immersive Media Group members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The response team reserves the right to exclude people from Preserving Immersive Media Group based on their past behavior, including behavior outside Preserving Immersive Media Group spaces and behavior towards people who are not in Preserving Immersive Media Group.
 
@@ -60,3 +60,8 @@ If a participant engages in harassing behavior, the response team may take any a
 
 ### Response Team <a href="#consequences" id="consequences"></a>
 
+Rasa Boycte: rbocyte \[at] beeldengeluid.nl
+
+Tom Ensom: tom.ensom \[at] tate.org.uk
+
+Jack McConchie: jack.mcconchie \[at] tate.org.uk

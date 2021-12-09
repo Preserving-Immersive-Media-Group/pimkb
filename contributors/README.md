@@ -8,7 +8,10 @@ description: >-
 
 ## Guide to Contributing
 
+The Knowledge Base in a collaborative and community-driven space for sharing anything from publications, to technical guides, to notes and work-in-progress. We welcome contributions! If you are interested in contributing, please get in touch with the site admins:&#x20;
 
+* Tom Ensom: tom.ensom \[at] tate.org.uk
+* Jack McConchie: jack.mcconchie \[at] tate.org.uk
 
 ## List of Contributors
 
