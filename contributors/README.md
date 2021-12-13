@@ -41,3 +41,4 @@ As a contributor, you agree to the [Code of Conduct](../code-of-conduct.md) and 
 [jesse-de-vos.md](jesse-de-vos.md)
 {% endcontent-ref %}
 
+Claudia Roeck
