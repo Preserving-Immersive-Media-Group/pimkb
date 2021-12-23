@@ -46,3 +46,7 @@ description: >-
 #### 3D Data Repository Features, Best Practices, and Implications for Preservation Models: Findings from a National Forum
 
 {% embed url="https://crl.acrl.org/index.php/crl/article/view/24512" %}
+
+#### Web3D Consortium Recommended Standards
+
+{% embed url="https://www.web3d.org/standards" %}
