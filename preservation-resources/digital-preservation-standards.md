@@ -1,8 +1,8 @@
 ---
 description: >-
-  This page gathers links to initiatives/workgroups, events, and publications on
-  the topic of developing standards for data packaging, file types, metadata,
-  documentation, normalization, migration, stor
+  Links to initiatives/workgroups, events, and publications on the topic of
+  developing standards for data packaging, file types, metadata, documentation,
+  normalization, migration, storage, and access.
 ---
 
 # Digital Preservation Standards
@@ -46,3 +46,7 @@ description: >-
 #### 3D Data Repository Features, Best Practices, and Implications for Preservation Models: Findings from a National Forum
 
 {% embed url="https://crl.acrl.org/index.php/crl/article/view/24512" %}
+
+#### Web3D Consortium Recommended Standards
+
+{% embed url="https://www.web3d.org/standards" %}
