@@ -47,6 +47,20 @@ description: >-
 
 {% embed url="https://crl.acrl.org/index.php/crl/article/view/24512" %}
 
+#### US Library of Congress Recommended Formats Statement: Design and 3D
+
+{% embed url="https://www.loc.gov/preservation/resources/rfs/design3D.html" %}
+
+#### US Library of Congress Recommended Formats Statement: Software and Video Games
+
+{% embed url="https://www.loc.gov/preservation/resources/rfs/software-videogames.html" %}
+
 #### Web3D Consortium Recommended Standards
 
 {% embed url="https://www.web3d.org/standards" %}
+
+#### DURAARK (Durable Architectural Knowledge) Paper:
+
+Lindlar, M., Panitz, M., and Gadiraju, U. (2015) Ingest and Storage of 3D Objects in a Digital Preservation System.
+
+{% embed url="https://zenodo.org/record/1115512" %}
