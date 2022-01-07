@@ -14,4 +14,5 @@ If you want to add to the bibliography, either drop [Tom](contributors/tom-ensom
 
 ## Resources to be added to Zotero
 
-* Add your ref here!
+* Röck, Marti (2021): [Capturing a VR-executable as a 360-degree video. A test report.](https://cms.hek.ch/files/downloads/211130\_Case\_study\_Melodie\_Mousset\_Organ\_Island.pdf)
+
