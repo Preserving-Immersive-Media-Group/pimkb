@@ -38,6 +38,7 @@
 * [📄 Documentation Templates](acquisition-resources/documentation-templates.md)
 * [🗃 Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)
   * [Archiving an Unreal Engine 4 Source Project](acquisition-resources/software-archiving-guides/archiving-an-unreal-engine-4-source-project.md)
+  * [Archiving a Unity 5 Source Project](acquisition-resources/software-archiving-guides/archiving-a-unity-5-source-project.md)
   * [Archiving an XR Runtime](acquisition-resources/software-archiving-guides/archiving-an-xr-runtime.md)
 
 ## Preservation Resources
