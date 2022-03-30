@@ -1,6 +1,10 @@
-# List of immersive artworks
+# List of Immersive Media Artworks
 
-Please add your immersive artwork. The purpose of this list is to show the variety of artworks and technologies used, but also to foster exchange between conservators. The listed artworks are _not_ necessarily well documented case studies. In the list below not only VR- or AR-based artworks are included, but also other interactive artworks that are produced with a game engine and hence require similar preservation strategies.
+{% hint style="info" %}
+This is a growing list maintained by the community. If you care for an immersive media artwork, please consider adding it.
+{% endhint %}
+
+The purpose of this list is to show the variety of artworks and technologies used, but also to foster exchange between conservators. The listed artworks are _not_ necessarily well documented case studies. In the list below not only VR- or AR-based artworks are included, but also other interactive artworks that are produced with a game engine and hence require similar preservation strategies.
 
 | Artwork                                                                                                                              | Artists                | Artwork date  | Game Engine                                                                                        | Runtime                       | Game Engine, latest version (year) | Display                                               | Interactivity                                                | Institution owning artwork            |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ------------- | -------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------- |

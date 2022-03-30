@@ -49,8 +49,7 @@
 
 ## Case Studies
 
-* [Your case study here](case-studies/your-case-study-here.md)
-* [List of immersive artworks](case-studies/list-of-immersive-artworks.md)
+* [List of Immersive Media Artworks](case-studies/list-of-immersive-media-artworks.md)
 
 ## PIMG
 
