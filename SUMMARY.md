@@ -4,6 +4,9 @@
 * [⁉ Glossary](glossary.md)
 * [📚 Bibliography](bibliography.md)
 * [🧐 Open Questions](open-questions.md)
+* [👋 Community](community/README.md)
+  * [Past PIMG Events](community/past-pimg-events.md)
+  * [PIMG Groups.io](https://groups.io/g/pimg)
 * [❤ Contributors](contributors/README.md)
   * [sasha arden](contributors/sasha-arden.md)
   * [⛄ Rasa Bocyte](contributors/rasa-bocyte.md)
@@ -34,9 +37,9 @@
 
 ## Acquisition Resources
 
-* [☑ Acquisition Checklist (Draft)](acquisition-resources/acquisition-checklist-draft.md)
-* [📄 Documentation Templates](acquisition-resources/documentation-templates.md)
-* [🗃 Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)
+* [Acquisition Checklist (Draft)](acquisition-resources/acquisition-checklist-draft.md)
+* [Documentation Templates](acquisition-resources/documentation-templates.md)
+* [Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)
   * [Archiving an Unreal Engine 4 Source Project](acquisition-resources/software-archiving-guides/archiving-an-unreal-engine-4-source-project.md)
   * [Archiving a Unity 5 Source Project](acquisition-resources/software-archiving-guides/archiving-a-unity-5-source-project.md)
   * [Archiving an XR Runtime](acquisition-resources/software-archiving-guides/archiving-an-xr-runtime.md)
@@ -50,9 +53,3 @@
 ## Case Studies
 
 * [List of Immersive Media Artworks](case-studies/list-of-immersive-media-artworks.md)
-
-## PIMG
-
-* [PIMG Community](pimg/pimg-community.md)
-* [Past PIMG Events](pimg/past-pimg-events.md)
-* [PIMG Groups.io](https://groups.io/g/pimg)

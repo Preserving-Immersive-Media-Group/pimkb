@@ -5,7 +5,7 @@ description: >-
   editing and commenting!
 ---
 
-# ☑ Acquisition Checklist (Draft)
+# Acquisition Checklist (Draft)
 
 Acquiring XR materials and experiences is a complex process and involves navigating many uncertainties regarding the future of the technologies involved. This checklist, while not exhaustive, is designed to assist navigating this process by highlighting key activities and questions to consider.&#x20;
 

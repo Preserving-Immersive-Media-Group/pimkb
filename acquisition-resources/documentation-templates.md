@@ -1,4 +1,4 @@
-# 📄 Documentation Templates
+# Documentation Templates
 
 ## Tate's **Acquisition Information Template**
 
