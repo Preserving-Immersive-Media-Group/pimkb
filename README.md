@@ -1,10 +1,4 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1563372590-aa093423dcbe?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHx2aXJ0dWFsJTIwcmVhbGl0eXxlbnwwfHx8fDE2MzQ1NDcyNDc&ixlib=rb-1.2.1&q=85
-coverY: 314.2466960352422
----
-
-# ➡ Preserving Immersive Media Knowledge Base
+# 📍 Preserving Immersive Media Knowledge Base
 
 {% hint style="danger" %}
 This site is a work in progress! Articles may be empty or incomplete, and might move around.
@@ -21,7 +15,7 @@ The Knowledge Base is designed as a flexible and collaborative space for sharing
 * [Glossary](glossary.md) of frequently encountered immersive media and preservation terminology.
 * [Open questions](open-questions.md) the community is trying to answer.
 * [Guide to contributing](contributors/#guide-to-contributing) to the Knowledge Base.
-* Our (work in progress!) resource for [understanding immersive media](broken-reference).
+* Our under construction resource for [understanding immersive media](broken-reference).
 * [Recording and notes](development-log.md) from Preserving Immersive Media Group events.
 
 For a longer read the [white paper](https://www.tate.org.uk/file/preserving-virtual-reality-artworks) published as an output of Tate's immersive media research is a useful place to start learning about VR and the preservation challenges it poses.&#x20;
