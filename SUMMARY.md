@@ -31,9 +31,9 @@
 * [360 Video](understanding-immersive-media/360-video/README.md)
   * [360 Video Tools](understanding-immersive-media/360-video/360-video-tools.md)
   * [Metadata standards](understanding-immersive-media/360-video/metadata-standards.md)
-* [Real-Time 3D](understanding-immersive-media/real-time-3d/README.md)
-  * [Unity](understanding-immersive-media/real-time-3d/unity.md)
-  * [Unreal Engine 4](understanding-immersive-media/real-time-3d/unreal-engine-4.md)
+* [Game Engines](understanding-immersive-media/game-engines/README.md)
+  * [Unity](understanding-immersive-media/game-engines/unity.md)
+  * [Unreal Engine 4](understanding-immersive-media/game-engines/unreal-engine-4.md)
 
 ## Acquisition Resources
 

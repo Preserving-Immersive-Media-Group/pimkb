@@ -22,13 +22,27 @@ A UE4 project consists of a collection of files and folders conforming to a well
 * **Saved**: Contains saved data created by the editor as it runs, including autosaves, crash reports and logs.
 * **A .uproject file**: The project file with which the project can be launched. Actually a json file containing structured information describing the project, including the UE4 version, enabled plugins and target platforms.&#x20;
 
-## Export Formats
+## Anatomy of a UE4 Build
+
+Dependent on whether Development or Shipping is selected prior to build, and other packaging options in UE4.&#x20;
+
+## Preservation Considerations
+
+### Access and Licencing
+
+| Criteria                         | Assessment                                                                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Source code access**           | Public source code access. Not open source per se, released under the Unreal Engine EULA. Seems accommodating to preservation use case.  |
+| **Licencing**                    | Users to pay a 5% royalty to Epic Games if product revenues exceed $1,000,000 USD.                                                       |
+| **Availability of old versions** | Oldest version available is 4.0.2 (released 28 March 2014).                                                                              |
+
+### Export Formats
 
 When an asset is imported to Unreal Engine 4 it is converted to the UE4 UASSET (.uasset) format. This format is not well documented, although there is some partial reverse engineering work [here](http://wiki.xentax.com/index.php/Unreal\_Engine\_4\_UASSET). An UASSET can re-exported from the engine in a variety of formats depending on the asset type. To do so, you need to right click on the asset in the Content Browser, and navigate to Asset Actions -> Export.&#x20;
 
 The information below was derived from testing in Unreal Engine 4.27.&#x20;
 
-### 3D Models (Static)
+#### 3D Models (Static)
 
 | Format                   | Includes Material? | Nodes                                                                                  |
 | ------------------------ | ------------------ | -------------------------------------------------------------------------------------- |
@@ -37,16 +51,12 @@ The information below was derived from testing in Unreal Engine 4.27.&#x20;
 | Unreal object text .copy | No                 | Identical to .t3d                                                                      |
 | Unreal object text .t3d  | No                 | Identical to .copy                                                                     |
 
-## Anatomy of a UE4 Build
-
-Dependent on whether Development or Shipping is selected prior to build, and other packaging options in UE4.&#x20;
-
-## Anatomy of a UE4 Project
+### Dependencies
 
 | UE4 Version | Target Platform | Dependencies                                                                                           |
 | ----------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | 4.27        | Linux           | [clang-11.0.1-based](https://cdn.unrealengine.com/CrossToolchain\_Linux/v19\_clang-11.0.1-centos7.exe) |
-|             |                 |                                                                                                        |
+| 4.27        | Windows         | Visual Studio 2019                                                                                     |
 |             |                 |                                                                                                        |
 
 ## UE4 Resources

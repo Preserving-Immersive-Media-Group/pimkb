@@ -8,6 +8,14 @@
 
 Within these three types, there may be a varying level of interactivity with elements on the virtual environment depending on the way in which the VR content has been produced. 360 video content is typically not interactive or dynamic (the video frames are predetermined when it is authored) while real-time 3D software may have interactive or dynamic elements (the video frames are generated on the fly at the runtime). &#x20;
 
+## Creating Virtual Reality Content
+
+There are two primary types of VR content: 360 video and real-time 3D software.&#x20;
+
+For VR content which makes use of real-time 3D rendering, existing software framework and tools are typically used as a starting point. Development for desktop or mobile applications is typically using a [game engine](game-engines/). Other approaches include web frameworks like [Three.js](https://threejs.org) and [A-Frame](https://aframe.io).
+
+For 360 video,&#x20;
+
 ## Common VR Components
 
 Accessing VR content is contingent on a set of interconnected off-the-shelf hardware and software components - a VR system. This will typically consist of:

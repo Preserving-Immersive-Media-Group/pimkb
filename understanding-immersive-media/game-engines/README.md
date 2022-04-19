@@ -1,12 +1,21 @@
-# Real-Time 3D
+# Game Engines
 
-Real-time 3D (RT3D) rendering is the process of generating moving images in real-time using software. In contrast to digital video, where a fixed number of frames are stored in a file, in real-time 3D frames are generated on-the-fly from 3D data sources. This allows the moving image to be dynamic and to respond to user interaction.&#x20;
+Game engines are software development tools for creating interactive software. They package together libraries and software which simplify the development of interactive software. Game engines are a widely used tool in the creation of real-time 3D VR software, and many engines support VR production workflows out-of-the-box.
 
-## Real-Time 3D Engines
+A modern game engine will typically include:
 
-RT3D software can be developed from scratch, but is frequently built on an existing code base. In many cases this is what is known as an _engine_: a package of libraries and tools which simplify the development of RT3D software.&#x20;
+* A 3D or 2D renderer, which supports the rendering of a moving sequence in real-time.&#x20;
+* Physics simulation.
+* Asset import and management.
+* Scripting and programming tools to support dynamic, simulated and interactive elements.
+* Sound processing.
+* Extension through plugins and/or custom code.
 
-### List of Engines
+There are numerous engines in use today. For real-time 3D rendering applications such as VR, Unity and Unreal Engine are currently the two most popular. Both are free to download and use non-commercially, which has contributed to their popularity.&#x20;
+
+An important implication of using an engine is that much programming has already happened before work on a project begins. The engines provides a toolset that can be used to realise the project and generate executable software, but as a creator you do not necessarily have full control or authorship of the code.&#x20;
+
+## List of Engines
 
 | Name                                                                                                                       | Platforms                                                                                                                                            | Download                                                                                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

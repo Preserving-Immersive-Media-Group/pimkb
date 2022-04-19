@@ -19,7 +19,7 @@ To build an Unreal Engine 4 project, you need the following components:
 
 ## Project Folder
 
-An Unreal Engine 4 project folder is a collection of files conforming to a specific directory structure — more information on this format can be found in our introduction to [Unreal Engine 4](../../understanding-immersive-media/real-time-3d/unreal-engine-4.md).&#x20;
+An Unreal Engine 4 project folder is a collection of files conforming to a specific directory structure — more information on this format can be found in our introduction to [Unreal Engine 4](../../understanding-immersive-media/game-engines/unreal-engine-4.md).&#x20;
 
 The archive this, the supplier will need to send you a copy of this complete directory. The contents of this directory should look something like the screenshot below:&#x20;
 
