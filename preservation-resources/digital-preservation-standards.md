@@ -7,6 +7,14 @@ description: >-
 
 # Digital Preservation Standards
 
+## **3D Software**
+
+#### US Library of Congress Recommended Formats Statement: Software and Video Games
+
+{% embed url="https://www.loc.gov/preservation/resources/rfs/software-videogames.html" %}
+
+## **3D Data**
+
 **International Image Interoperability Framework (IIIF) Community 3D Interest Group**
 
 {% embed url="https://iiif.io/community/groups/3d" %}
@@ -50,10 +58,6 @@ description: >-
 #### US Library of Congress Recommended Formats Statement: Design and 3D
 
 {% embed url="https://www.loc.gov/preservation/resources/rfs/design3D.html" %}
-
-#### US Library of Congress Recommended Formats Statement: Software and Video Games
-
-{% embed url="https://www.loc.gov/preservation/resources/rfs/software-videogames.html" %}
 
 #### Web3D Consortium Recommended Standards
 
