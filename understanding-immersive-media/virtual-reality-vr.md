@@ -12,7 +12,7 @@ Within these three types, there may be a varying level of interactivity with ele
 
 There are two primary types of VR content: 360 video and real-time 3D software.&#x20;
 
-For VR content which makes use of real-time 3D rendering, existing software framework and tools are typically used as a starting point. Development for desktop or mobile applications is typically using a [game engine](game-engines/). Other approaches include web frameworks like [Three.js](https://threejs.org) and [A-Frame](https://aframe.io).
+For VR content which makes use of real-time 3D rendering, existing software framework and tools are typically used as a starting point. Development for desktop or mobile applications is typically using a [game engine](game-engines/). Other approaches include web frameworks like [Three.js](https://threejs.org/) and [A-Frame](https://aframe.io/).
 
 For 360 video,&#x20;
 

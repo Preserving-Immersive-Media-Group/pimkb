@@ -2,6 +2,8 @@
 
 Game engines are software development tools for creating interactive software. They package together libraries and software which simplify the development of interactive software. Game engines are a widely used tool in the creation of real-time 3D VR software, and many engines support VR production workflows out-of-the-box.
 
+![A simple 3D scene open in the Unreal Engine 4.27 editor.](../../.gitbook/assets/UE4\_27\_Interface.png)
+
 A modern game engine will typically include:
 
 * A 3D or 2D renderer, which supports the rendering of a moving sequence in real-time.&#x20;

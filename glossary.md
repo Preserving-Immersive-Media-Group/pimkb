@@ -152,7 +152,7 @@ Code Migration
 **Links to external glossaries:**
 
 * Unity: [What is XR Glossary](https://unity.com/how-to/what-is-xr-glossary)
-* [The VR Glossary](http://www.vrglossary.org)
+* [The VR Glossary](http://www.vrglossary.org/)
 * XinReality wiki: [Terms](https://xinreality.com/wiki/Category:Terms)
 * Oculus Creators Portal: [VR Glossary](https://creator.oculus.com/learn/vr-glossary/)
 * Interactive Advertising Bureau (IAB): AR and VR Terminology [PDF](https://www.iab.com/wp-content/uploads/2018/07/IAB\_VR-AR\_Glossary\_v5b.pdf)
