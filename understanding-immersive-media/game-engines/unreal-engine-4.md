@@ -51,14 +51,18 @@ The information below was derived from testing in Unreal Engine 4.27. Note that 
 | Unreal object text .copy | No                 | Identical to .t3d                                                                      |
 | Unreal object text .t3d  | No                 | Identical to .copy                                                                     |
 
+### Game Dependencies
+
+Any application created using UE4 has a set of dependencies similar to the editor. These are automatically packaged with an application when built from the editor, and are installed when the application is run by an installer program called UE4PrereqSetup\_x64.exe. This can be found in: \[UE4GameRootLocation]\Engine\Extras\Redist\en-us
+
 ### Editor Dependencies
 
 These dependencies are required to run the editor, or applications created using the editor.&#x20;
 
-| Platform | Dependencies                                                                                                                                                                                                                                                                                                                                                                                 |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | The Epic Games Launcher automatically runs a dependency installer when UE4 is installed, called 'UE4PrereqSetup\_x64.exe' or 'UE4PrereqSetup\_x86.exe'. Manually running these is required if a different method of installation is used (e.g. copying the engine binaries onto the system). These can be located within the Engine directory:  \[UERootLocation]\Engine\Extras\Redist\en-us |
-|          |                                                                                                                                                                                                                                                                                                                                                                                              |
+| Platform | Dependencies                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | The Epic Games Launcher automatically runs a dependency installer when UE4 is installed, called 'UE4PrereqSetup\_x64.exe' or 'UE4PrereqSetup\_x86.exe'. Manually running these is required if a different method of installation is used (e.g. copying the engine binaries onto the system). These can be located within the Engine directory:  \[UE4EditorRootLocation]\Engine\Extras\Redist\en-us |
+|          |                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### Build Dependencies
 
