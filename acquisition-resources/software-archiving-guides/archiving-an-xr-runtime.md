@@ -11,9 +11,9 @@ XR runtime are often distributed using front-end tools that carry out downloadin
 
 ## Oculus (Windows)
 
-Oculus Runtime 0.8.0 is currently available to download from the Oculus website: [https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/](https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/).
+Oculus Runtime 0.8.0 (dating from 2017) is currently available to download from the Oculus website: [https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/](https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/).
 
-After installation, the runtime can be found in C:\Program Files\Oculus
+For later versions you are dependent on the [Oculus Rift software](https://www.oculus.com/rift/setup/?locale=en\_GB) to install and manage the runtime. After installation, the runtime can be found in C:\Program Files\Oculus - still to be tested whether this directory can be copied to a new machine, but seems unlikely.&#x20;
 
 ## SteamVR (Windows)
 
