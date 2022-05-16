@@ -40,7 +40,7 @@ Dependent on whether Development or Shipping is selected prior to build, and oth
 
 When an asset is imported to Unreal Engine 4 it is converted to the UE4 UASSET (.uasset) format. This format is not well documented, although there is some partial reverse engineering work [here](http://wiki.xentax.com/index.php/Unreal\_Engine\_4\_UASSET). A UASSET can be re-exported from the engine in a variety of formats depending on the asset type. To do so, you need to right click on the asset in the Content Browser, and navigate to Asset Actions -> Export.&#x20;
 
-The information below was derived from testing in Unreal Engine 4.27. Note that is simply the formats available and has not been tested for fidelity with original import format.&#x20;
+The information below was derived from testing in Unreal Engine 4.27. Note that is simply a list of the export formats available and exports have not been tested against original import format.&#x20;
 
 #### 3D Models (Static) Export Formats
 
@@ -53,7 +53,7 @@ The information below was derived from testing in Unreal Engine 4.27. Note that 
 
 ### Game Dependencies
 
-Any application created using UE4 has a set of dependencies similar to the editor. These are automatically packaged with an application when built from the editor, and are installed when the application is run by an installer program called UE4PrereqSetup\_x64.exe. This can be found in: \[UE4GameRootLocation]\Engine\Extras\Redist\en-us
+Windows applications created using the UE4 editor have a set of dependencies similar to the editor. These are automatically packaged with an application when built from the editor, and are installed when the application is run by an installer program called UE4PrereqSetup\_x64.exe. This can be located in the application directory: \[UE4GameRootLocation]\Engine\Extras\Redist\en-us
 
 ### Editor Dependencies
 
