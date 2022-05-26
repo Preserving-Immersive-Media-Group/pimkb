@@ -1,0 +1,5 @@
+# Samantha Rowe
+
+**Samantha Rowe** contributed an AR pre-acquisition template. She is an archivist and art historian, and the Digital Archivist and Research Associate of the Wildenstein Plattner Institute, Inc. (WPI), a non-profit foundation established in 2016 dedicated to the publication of digital catalogues raisonnés and archival material that support research in art history. Her role is to prepare, describe, arrange, and conduct item-level processing of digital archival materials using the WPI’s relational database to provide free public access to over 50,000 significant art historical resources and research materials on its growing digital platform, which she helped develop with an international team of researchers, developers, and UI/UX designers. Her research centers on investigating the intersections between art history and archives. She holds an M.S.L.I.S. from Long Island University and M.A. in History of Art from the Institute of Fine Arts, New York University.&#x20;
+
+E-mail: samantha.h.rowe \[at] gmail.com

@@ -14,6 +14,7 @@
   * [Eric Kaltman](contributors/eric-kaltman.md)
   * [🚗 Jack McConchie](contributors/jack-mcconchie.md)
   * [🧜♂ Jesse de Vos](contributors/jesse-de-vos.md)
+* [Samantha Rowe](samantha-rowe.md)
 * [🤝 Code of Conduct](code-of-conduct.md)
 * [📜 Licence](licence.md)
 * [⚙ Development Log](development-log.md)
