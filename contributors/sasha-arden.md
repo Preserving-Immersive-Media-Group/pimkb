@@ -1,3 +1,7 @@
 # sasha arden
 
-**sasha arden** is the Rachel and Jonathan Wilf & Andrew W. Mellon Fellow in Time-based Media Conservation at NYU’s Conservation Center, completing their fourth year internship with the Museum of Modern Art and Tate. Having been involved in arts production, installation, and management throughout their career, sasha embraces the long-term thinking and development of appropriate stewardship practices in conservation while being informed by practical experience. Their ongoing research examines the intersection of technical capabilities and the philosophical and ethical questions arising through the conservation process, often questioning conventional approaches in pursuit of a holistic approach to the integrity of cultural assets. sasha's focus in Preserving Immersive Media is on documentation methodologies and techniques.
+**sasha arden** spent their fourth year internship working with the Museum of Modern Art and Tate media conservation teams. Their focus in Preserving Immersive Media is on documentation methodologies and techniques. They graduated from NYU's conservation program in time-based media in 2022.
+
+Having been involved in arts production, installation, and management throughout their career, sasha embraces the long-term thinking and development of appropriate stewardship practices in conservation while being informed by practical experience. Their ongoing research examines the intersection of technical capabilities and the philosophical and ethical questions arising through the conservation process, advocating for a holistic approach to the integrity of cultural assets.
+
+Email: sasha.llyn.arden \[at] gmail \[dot] com
