@@ -24,17 +24,31 @@ A UE4 project consists of a collection of files and folders conforming to a well
 
 ## Anatomy of a UE4 Build
 
-Dependent on whether Development or Shipping is selected prior to build, and other packaging options in UE4.&#x20;
+A UE4 build consists of set of files and folders that allow the software to be run on a suitable host computer.&#x20;
+
+*
+
+Some elements dependent on whether Development or Shipping option is selected prior to build, and other packaging options in UE4.&#x20;
+
+*
 
 ## Preservation Considerations
 
+### Overview
+
+* Has been updated an average of 4 times per year since first release in 2014. Updates can result in deprecation or removal of features, or incompatibility with plugins. Unreal Engine 5 was released in 2022, which may mean an end to UE4 updates.&#x20;
+* Free source code access via GitHub repository (note that the Unreal Engine [EULA](https://www.unrealengine.com/en-US/eula/unreal) applies).
+* Royalty payments only required with high product revenues, so unlikely to impact cultural heritage context.
+* For custom C++ projects Visual Studio dependencies are difficult to manage from an archival perspective.
+* Transforms imported assets to the poorly documented internal format (.uasset). More work is required to understand whether this transformation is lossless.
+
 ### Access and Licencing
 
-| Criteria                         | Assessment                                                                                                                                                                                                          |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Source code access**           | Public source code access. Not open source per se, released under the Unreal Engine EULA. Seems accommodating to preservation use case, but use must abide by EULA (e.g. no redistribution of engine source code).  |
-| **Licencing**                    | Users to pay a 5% royalty to Epic Games if product revenues exceed $1,000,000 USD.                                                                                                                                  |
-| **Availability of old versions** | Oldest version available is 4.0.2 (released 28 March 2014) via Epic Games Launcher or GitHub.                                                                                                                       |
+| Criteria                         | Assessment                                                                                                                                                                                                                                                                             |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Source code access**           | Public source code access although access to private GitHub repository needs to be requested. Not open source per se, released under the Unreal Engine EULA. Seems accommodating to preservation use case, but use must abide by EULA (e.g. no redistribution of engine source code).  |
+| **Licencing**                    | Users to pay a 5% royalty to Epic Games if product revenues exceed $1,000,000 USD.                                                                                                                                                                                                     |
+| **Availability of old versions** | Oldest version available is 4.0.2 (released 28 March 2014) via Epic Games Launcher or GitHub.                                                                                                                                                                                          |
 
 ### Export Formats
 
