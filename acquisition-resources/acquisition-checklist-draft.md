@@ -11,7 +11,7 @@ Acquiring XR materials and experiences is a complex process and involves navigat
 
 For **all XR** materials and experiences:
 
-* Work closely with the creator and/or their team to understand the components of the XR experience and document what is learnt during this process — see [Documentation Templates](documentation-templates.md).
+* Work closely with the creator and/or their team to understand the components of the XR experience and document what is learnt during this process — see [Documentation Templates](documentation/).
 * Understand the way in which the XR experience has been presented in the past and gather any relevant documentation to support this.&#x20;
 * Assess how immediate the need for access to display equipment is and source anything missing. This might include:&#x20;
   * XR equipment (e.g. HMD, tracking system...) — at least one set.

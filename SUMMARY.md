@@ -39,7 +39,8 @@
 ## Acquisition Resources
 
 * [Acquisition Checklist (Draft)](acquisition-resources/acquisition-checklist-draft.md)
-* [Documentation](acquisition-resources/documentation.md)
+* [Documentation](acquisition-resources/documentation/README.md)
+  * [Video Documentation](acquisition-resources/documentation/video-documentation.md)
 * [Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)
   * [Archiving an Unreal Engine 4 Source Project](acquisition-resources/software-archiving-guides/archiving-an-unreal-engine-4-source-project.md)
   * [Archiving a Unity 5 Source Project](acquisition-resources/software-archiving-guides/archiving-a-unity-5-source-project.md)
