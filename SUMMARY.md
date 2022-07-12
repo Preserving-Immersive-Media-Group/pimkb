@@ -52,7 +52,3 @@
 * [Mobile Platforms](preservation-resources/mobile-platforms.md)
 * [Software Tools](preservation-resources/software-tools.md)
 * [Repair Guides](preservation-resources/repair-guides.md)
-
-## Case Studies
-
-* [List of Immersive Media Artworks](case-studies/list-of-immersive-media-artworks.md)
