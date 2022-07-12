@@ -16,6 +16,6 @@ The Knowledge Base is designed as a flexible and collaborative space for sharing
 * [Open questions](open-questions.md) the community is trying to answer.
 * [Guide to contributing](contributors/#guide-to-contributing) to the Knowledge Base.
 * Our under construction resource for [understanding immersive media](broken-reference).
-* [Recording and notes](development-log.md) from Preserving Immersive Media Group events.
+* [Recording and notes](broken-reference) from Preserving Immersive Media Group events.
 
 For a longer read the [white paper](https://www.tate.org.uk/file/preserving-virtual-reality-artworks) published as an output of Tate's immersive media research is a useful place to start learning about VR and the preservation challenges it poses.&#x20;

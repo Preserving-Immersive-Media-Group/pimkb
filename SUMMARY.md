@@ -18,7 +18,6 @@
     * [Samantha Rowe](contributors/samantha-rowe.md)
 * [🤝 Code of Conduct](code-of-conduct.md)
 * [📜 Licence](licence.md)
-* [⚙ Development Log](development-log.md)
 
 ## Understanding Immersive Media
 
