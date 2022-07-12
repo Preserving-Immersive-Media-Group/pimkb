@@ -8,12 +8,12 @@ description: >-
 
 ## List of Contributors
 
-* [sasha arden](sasha-arden.md)
-* [Rasa Boycte](rasa-bocyte.md)
-* [Tom Ensom](tom-ensom.md)
-* [Eric Kaltman](eric-kaltman.md)
-* [Jack McConchie](jack-mcconchie.md)
-* [Jesse de Vos](jesse-de-vos.md)
-* [Samantha Rowe](samantha-rowe.md)
+* [sasha arden](../../contributors/sasha-arden.md)
+* [Rasa Boycte](../../contributors/rasa-bocyte.md)
+* [Tom Ensom](../../contributors/tom-ensom.md)
+* [Eric Kaltman](../../contributors/eric-kaltman.md)
+* [Jack McConchie](../../contributors/jack-mcconchie.md)
+* [Jesse de Vos](../../contributors/jesse-de-vos.md)
+* [Samantha Rowe](../../contributors/samantha-rowe.md)
 * Claudia Roeck
 

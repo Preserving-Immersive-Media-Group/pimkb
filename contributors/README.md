@@ -15,6 +15,6 @@ The Knowledge Base in a collaborative and community-driven space for sharing any
 
 As a contributor, you agree to the [Code of Conduct](../code-of-conduct.md) and that any content you create on this GitBook site will be shared according to our [Licence](../licence.md) terms.
 
-If you contribute, please do add your name to the [list of contributors](contributors/) and create a bio page!&#x20;
+If you contribute, please do add your name to the [list of contributors](../contributing/contributors/) and create a bio page!&#x20;
 
 ##

@@ -11,7 +11,7 @@ PIMG also runs regular events, recordings and outputs from which are [made avail
 ## List of Immersive Media Preservation Projects
 
 {% hint style="info" %}
-The purpose of this list is to show foster exchange and collaboration between projects exploring the preservation of immersive media materials and experiences. This is a growing list maintained by the community. If you are involved in an immersive media preservation project, please consider [adding it](../contributing/).
+The purpose of this list is to show foster exchange and collaboration between projects exploring the preservation of immersive media materials and experiences. This is a growing list maintained by the community. If you are involved in an immersive media preservation project, please consider [adding it](../contributors/).
 {% endhint %}
 
 | Project                    | Host(s)          | URL                                                                                                                                          | Contact                                               |

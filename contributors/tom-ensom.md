@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/HighresScreenshot00007.png
+cover: ../.gitbook/assets/HighresScreenshot00007.png
 coverY: -6.308690012970146
 ---
 
