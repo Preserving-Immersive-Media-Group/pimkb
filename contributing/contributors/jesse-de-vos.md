@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/2015-01_wmnl_b_en_g_150 (1).jpeg
+cover: ../../.gitbook/assets/2015-01_wmnl_b_en_g_150 (1).jpeg
 coverY: 785.9695845697329
 ---
 
