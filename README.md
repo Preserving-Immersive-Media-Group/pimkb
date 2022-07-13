@@ -14,7 +14,7 @@ The Knowledge Base is designed as a flexible and collaborative space for sharing
 
 * [Glossary](glossary.md) of frequently encountered immersive media and preservation terminology.
 * [Open questions](open-questions.md) the community is trying to answer.
-* [Guide to contributing](contributors/#guide-to-contributing) to the Knowledge Base.
+* [Guide to contributing](contributors/) to the Knowledge Base.
 * Our under construction resource for [understanding immersive media](broken-reference).
 * [Recording and notes](broken-reference) from Preserving Immersive Media Group events.
 

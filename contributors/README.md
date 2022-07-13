@@ -1,14 +1,10 @@
----
-description: >-
-  This is the place to learn about how to contribute to the Knowledge Base and
-  make sure your contributions are acknowledged.
----
-
 # ❤ Contributing
 
-## Guide to Contributing
+The Knowledge Base in a collaborative and community-driven space for sharing anything from publications, to technical guides, to notes and work-in-progress. We welcome contributions big or small!
 
-The Knowledge Base in a collaborative and community-driven space for sharing anything from publications, to technical guides, to notes and work-in-progress. We welcome contributions! If you are interested in contributing, you can join the team as an Editor by following this link:&#x20;
+## How to Contribute
+
+If you are interested in contributing, you can join the team as an Editor by following this link:&#x20;
 
 [https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/b20bJHyul40s6q8KYlI9](https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/b20bJHyul40s6q8KYlI9)
 

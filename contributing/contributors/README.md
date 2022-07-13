@@ -1,12 +1,6 @@
----
-description: >-
-  Thank you to all those who have generously given their time help shape the
-  Knowledge Base!
----
-
 # Contributors
 
-## List of Contributors
+Thank you to all those who have generously given their time help shape the Knowledge Base!
 
 * [sasha arden](../../contributors/sasha-arden.md)
 * [Rasa Boycte](../../contributors/rasa-bocyte.md)
