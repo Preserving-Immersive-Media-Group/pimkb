@@ -37,3 +37,4 @@ Accessing VR content is contingent on a set of interconnected off-the-shelf hard
 * Ensom, T., & McConchie, J. (2021). _Preserving Virtual Reality Artworks_. Tate. [https://doi.org/10.5281/zenodo.5274102](https://doi.org/10.5281/zenodo.5274102)
 * LIMA (2021). A Practical Research into Preservation Strategies for VR artworks on the basis of Justin Zijlstra’s 100 Jaar Vrouwenkiesrecht. URL: [https://www.li-ma.nl/lima/article/preserving-vr-artworks](https://www.li-ma.nl/lima/article/preserving-vr-artworks)
 * Google. Google VR: Fundamental Concepts. URL: [https://developers.google.com/vr/discover/fundamentals](https://developers.google.com/vr/discover/fundamentals)
+* Brown CSCI1951S. VR Software Wiki. URL: [https://sites.google.com/view/brown-vr-sw-review-2018/home](https://sites.google.com/view/brown-vr-sw-review-2018/home)
