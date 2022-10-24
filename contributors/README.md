@@ -10,4 +10,5 @@ Thank you to all those who have generously given their time and knowledge to hel
 * [Jesse de Vos](jesse-de-vos.md)
 * [Samantha Rowe](samantha-rowe.md)
 * Claudia Roeck
+* WinZs
 
