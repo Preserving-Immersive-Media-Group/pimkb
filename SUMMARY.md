@@ -37,10 +37,7 @@
   * [Unity](understanding-immersive-media/game-engines/unity.md)
   * [Unreal Engine 4](understanding-immersive-media/game-engines/unreal-engine-4.md)
   * [Godot](understanding-immersive-media/game-engines/godot.md)
-
-***
-
-* [Audio](audio.md)
+* [Audio](understanding-immersive-media/audio.md)
 
 ## Acquisition Resources
 
