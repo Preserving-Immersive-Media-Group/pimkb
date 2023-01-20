@@ -18,8 +18,8 @@ These documents were designed to guide information gathering and discussion duri
 
 * [Version 2](https://docs.google.com/document/d/1VGHHvxMRQc\_OQYjHFW1mTMRa2vL9MGsjiNq1gF4j6l8/edit) (May 2019) developed as an extension of this template by Savannah Campbell and Mark Hellar:&#x20;
 
-{% file src="../../.gitbook/assets/Virtual Reality Artwork Acquisition Template (1).docx" %}
+{% file src="../../.gitbook/assets/Virtual Reality Artwork Acquisition Template.docx" %}
 
-#### **Paper**
+## **Research Papers**
 
 "Augmenting Our Approach to Preservation: Documentation of Experience for Immersive Media" written by [sasha arden](../../contributors/sasha-arden.md) during their 2021–22 graduate internship at Tate. [https://www.tate.org.uk/documents/1793/Augmenting\_Our\_Approach\_to\_Preservation.pdf](https://www.tate.org.uk/documents/1793/Augmenting\_Our\_Approach\_to\_Preservation.pdf)
