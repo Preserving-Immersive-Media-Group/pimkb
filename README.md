@@ -13,9 +13,9 @@ The Preserving Immersive Media Knowledge Base is a resource created to help shar
 The Knowledge Base is designed as a flexible and collaborative space for sharing information and materials that may be work-in-progress or based on best available knowledge. As such, it is constantly evolving and pages can never be considered final or authoritative! If you are new here, these pages might be useful places to start:
 
 * [Glossary](glossary.md) of frequently encountered immersive media and preservation terminology.
-* [Open questions](open-questions.md) the community is trying to answer.
+* [Open questions](open-questions.md) that the community is trying to answer.
 * [Guide to contributing](contributing.md) to the Knowledge Base.
 * Our under construction resource for [understanding immersive media](broken-reference).
-* [Recording and notes](community/past-pimg-events.md) from Preserving Immersive Media Group events.
+* [Recordings and notes](community/past-pimg-events.md) from Preserving Immersive Media Group events.
 
 For a longer read the [white paper](https://www.tate.org.uk/file/preserving-virtual-reality-artworks) published as an output of Tate's immersive media research is a useful place to start learning about VR and the preservation challenges it poses.&#x20;
