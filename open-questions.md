@@ -26,6 +26,12 @@ Preserving Immersive Media is an emerging area of digital preservation and prese
 * Capture tools&#x20;
 * File format identification- do these support 3D Objects and 3D software?
 
+### Acquisitions
+
+* A complexity matrix- to enable advocacy for institutional resources&#x20;
+
+
+
 ### Documentation
 
 * What is the relationship between the artwork and the technology, to what extent is the experience determined by an individual’s engagement with the peripheral devices, and to what extent might this be understood and managed over time?
