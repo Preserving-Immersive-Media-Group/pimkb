@@ -27,7 +27,7 @@ The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) of this g
 
 **Six degrees of freedom**: Often abbreviated to 6DoF, this term refers to the ability to move in six directions, namely pitch, yaw, roll, elevation, strafing and surging.
 
-****[**CAVE**](https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf) **(cave automatic virtual environment)**: is a virtual reality environment consisting of 3 to 6 walls that form a room-sized cube.
+[**CAVE**](https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf) **(cave automatic virtual environment)**: is a virtual reality environment consisting of 3 to 6 walls that form a room-sized cube.
 
 **On-rails**: A VR experience in which there is no significant use of positional tracking. It has a start and an end like a video.
 
@@ -47,7 +47,7 @@ The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) of this g
 
 **Judder**: Typically caused by a low refresh rate (see above) or dropped frames, judder is the manifestation of motion blur (also known as smearing) and the perception of more than one image simultaneously (known as strobing). This can cause simulator sickness (see below).
 
-****[**Latency**](https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf): The time delaying virtual reality; a glitch in the VR system, when the images are not well synchronized with the sound, changing later than expected.
+[**Latency**](https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf): The time delaying virtual reality; a glitch in the VR system, when the images are not well synchronized with the sound, changing later than expected.
 
 ## Behaviour <a href="#behaviour" id="behaviour"></a>
 
@@ -61,15 +61,15 @@ The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) of this g
 
 **Anti-aliasing**: Raster images are made of rectangular pixels, which can lead to jagged edges in curved lines. Anti-Aliasing aims to reduce the jaggedness created by these pixels, and there are multiple techniques to achieve this.
 
-****[**Fast Approximate Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/)**:** The least demanding type of anti-aliasing. Rather than running complex calculation depending on the geometry and colors displayed, FXAA simply applies extensive blurring to obscure the jagged edges. The end result is unnoticeable performance impact but a generally blurrier image.
+[**Fast Approximate Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/)**:** The least demanding type of anti-aliasing. Rather than running complex calculation depending on the geometry and colors displayed, FXAA simply applies extensive blurring to obscure the jagged edges. The end result is unnoticeable performance impact but a generally blurrier image.
 
-****[**Multi-sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): It relies on color manipulation around geometric shapes to produce an effect of smoothness. It can use either 2, 4 or 8 samples – the higher the sample count, the higher the quality and the performance impact.
+[**Multi-sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): It relies on color manipulation around geometric shapes to produce an effect of smoothness. It can use either 2, 4 or 8 samples – the higher the sample count, the higher the quality and the performance impact.
 
-****[**Super Sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): What it does is make the GPU render a game at a higher resolution and then downsamples it. That way, it increases the overall pixel density of your display and renders a much sharper image.
+[**Super Sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): What it does is make the GPU render a game at a higher resolution and then downsamples it. That way, it increases the overall pixel density of your display and renders a much sharper image.
 
 **Bloom**: Creates blurry feathered edges to light sources in post-processing
 
-****[**Foveated rendering**](https://kei-studios.com/complete-virtual-reality-glossary/): A tracking-based rendering method where the user’s eye movements are tracked, allowing peripheral vision to be rendered at a lower quality, thus reducing the amount of processing needed to render a VR experience in real-time.
+[**Foveated rendering**](https://kei-studios.com/complete-virtual-reality-glossary/): A tracking-based rendering method where the user’s eye movements are tracked, allowing peripheral vision to be rendered at a lower quality, thus reducing the amount of processing needed to render a VR experience in real-time.
 
 **Lens Flare**: The image is processed to replicate light reflecting in a simulated camera lens.
 
@@ -113,7 +113,7 @@ The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) of this g
 
 **Simulator sickness**: Sometimes referred to as VR sickness and with similar effects to motion sickness, this can be caused by factors including judder and users perceiving self-motion when stationary.
 
-****[**Asynchronous timewarp**:](https://www.newegg.com/vr/guides/vr-terms-you-should-know.html) a middle-ground between high persistence and low persistence displays that “warps” a current frame to compensate for the motion of your head before showing you the next rendered frame.
+[**Asynchronous timewarp**:](https://www.newegg.com/vr/guides/vr-terms-you-should-know.html) a middle-ground between high persistence and low persistence displays that “warps” a current frame to compensate for the motion of your head before showing you the next rendered frame.
 
 **Spatial desync**: the effect or difference occurring when a user’s movements in real life and the VR avatar’s movements are out of sync.
 
@@ -139,13 +139,17 @@ Peripheral device/s, often left and right to provide full motion tracking of a p
 
 ## Preservation
 
-Documentation
+### General
 
-Emulation
+**Complex Digital Objects:** An object, item, or work with a component that is digital, is made up of multiple files (likely of differing file formats) and may or may not incorporate a physical component. A Complex Digital Object is likely to depend on software, hardware, peripherals, and/or networked or non-networked data, platforms, and/or services. Contrast with a **Simple Digital Object** which consists of a single file. XR materials can be considered Complex Digital Objects.&#x20;
 
-Migration
+### Documentation
 
-Code Migration
+### Emulation
+
+### Migration
+
+### Code Migration
 
 ## Other Resources <a href="#resources" id="resources"></a>
 
