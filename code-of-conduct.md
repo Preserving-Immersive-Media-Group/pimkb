@@ -1,8 +1,8 @@
----
-description: By using this site, you agree to this!
----
-
 # 🤝 Code of Conduct
+
+{% hint style="info" %}
+By using this site, you agree to abide by the code of conduct outlined on this page.
+{% endhint %}
 
 ## Document History
 
