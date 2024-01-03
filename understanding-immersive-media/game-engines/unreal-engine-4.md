@@ -44,11 +44,7 @@ Some elements dependent on whether Development or Shipping option is selected pr
 
 ### Access and Licencing
 
-| Criteria                         | Assessment                                                                                                                                                                                                                                                                             |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Source code access**           | Public source code access although access to private GitHub repository needs to be requested. Not open source per se, released under the Unreal Engine EULA. Seems accommodating to preservation use case, but use must abide by EULA (e.g. no redistribution of engine source code).  |
-| **Licencing**                    | Users to pay a 5% royalty to Epic Games if product revenues exceed $1,000,000 USD.                                                                                                                                                                                                     |
-| **Availability of old versions** | Oldest version available is 4.0.2 (released 28 March 2014) via Epic Games Launcher or GitHub.                                                                                                                                                                                          |
+<table><thead><tr><th width="256.9254754121008">Criteria</th><th width="180.33333333333331">Assessment</th></tr></thead><tbody><tr><td><strong>Source code access</strong></td><td>Public source code access although access to private GitHub repository needs to be requested. Not open source per se, released under the Unreal Engine EULA. Seems accommodating to preservation use case, but use must abide by EULA (e.g. no redistribution of engine source code). </td></tr><tr><td><strong>Licencing</strong></td><td>Users to pay a 5% royalty to Epic Games if product revenues exceed $1,000,000 USD.</td></tr><tr><td><strong>Availability of old versions</strong></td><td>Oldest version available is 4.0.2 (released 28 March 2014) via Epic Games Launcher or GitHub.</td></tr></tbody></table>
 
 ### Export Formats
 

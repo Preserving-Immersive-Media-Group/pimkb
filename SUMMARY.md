@@ -41,7 +41,7 @@
 
 ## Acquisition Resources
 
-* [Acquisition Checklist (Draft)](acquisition-resources/acquisition-checklist-draft.md)
+* [Acquisition Checklist](acquisition-resources/acquisition-checklist.md)
 * [Documentation](acquisition-resources/documentation/README.md)
   * [Video Documentation](acquisition-resources/documentation/video-documentation.md)
 * [Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)

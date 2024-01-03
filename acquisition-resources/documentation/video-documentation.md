@@ -10,7 +10,7 @@ Video documentation can be used to record aspects of an immersive media (IM) exp
 Virtual video capture can produce two kinds of video:
 
 * **Fixed-perspective video**: video which representing a fixed perspective on the virtual environment; the standard form of video designed for non-interactive viewing.
-* ****[**360 video**](../../understanding-immersive-media/360-video/): video representing a 360 degree view from a central point, therefore allowing a level of interactivity via rotational tracking.
+* [**360 video**](../../understanding-immersive-media/360-video/): video representing a 360 degree view from a central point, therefore allowing a level of interactivity via rotational tracking.
 
 ### Capturing Video from an Application
 

@@ -16,9 +16,9 @@ One way of preparing for the preservation of software made in Unreal Engine 4 (U
 
 As a rule of thumb, you want to have all the materials required to repeated the process of building the software. To build an Unreal Engine 4 project, you need the following components:
 
-* ****[**Project folder**](archiving-an-unreal-engine-4-source-project.md#project-folder): the collection of custom Unreal Engine 4 content and project files;
-* ****[**Engine binaries**](archiving-an-unreal-engine-4-source-project.md#engine-binaries): the editor software which allows you to open the project;
-* ****[**Dependencies**](archiving-an-unreal-engine-4-source-project.md#dependencies): any additional software not included with the engine binaries by default e.g. plugins, libraries.
+* [**Project folder**](archiving-an-unreal-engine-4-source-project.md#project-folder): the collection of custom Unreal Engine 4 content and project files;
+* [**Engine binaries**](archiving-an-unreal-engine-4-source-project.md#engine-binaries): the editor software which allows you to open the project;
+* [**Dependencies**](archiving-an-unreal-engine-4-source-project.md#dependencies): any additional software not included with the engine binaries by default e.g. plugins, libraries.
 
 A sensible approach is therefore to archive all these components either independently or in the form of a disk image. Each component type, including how you can locate it, is described in detail below.&#x20;
 
