@@ -1,17 +1,21 @@
----
-description: >-
-  This glossary is an effort to define frequently encountered immersive media
-  terminology
----
-
 # ⁉ Glossary
 
-The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) of this glossary was developed during iPRES 2019 by participants in the VR Hackathon event. Notes copied over (could edit into an intro?):&#x20;
+This glossary is an effort to define frequently encountered immersive media terminology and support a common vocabulary in collaboration between disciplines. The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) was compiled during iPRES 2019 by participants in the VR Hackathon event. Definitions are sourced from the following existing online glossaries:&#x20;
 
-* Glossary as common vocabulary to be used when working with VR creators - especially useful when acquiring and documenting the art work with the artist&#x20;
-* We took the definitions from industry pages - existing online resources (see [Other Resources](glossary.md#resources) below)&#x20;
-* We still need to review and agree on these definitions&#x20;
-* We would like to add visual examples/ images to illustrate what is being described
+* Unity: [What is XR Glossary](https://unity.com/how-to/what-is-xr-glossary)
+* [The VR Glossary](http://www.vrglossary.org/)
+* XinReality wiki: [Terms](https://xinreality.com/wiki/Category:Terms)
+* Oculus Creators Portal: [VR Glossary](https://creator.oculus.com/learn/vr-glossary/)
+* Interactive Advertising Bureau (IAB): AR and VR Terminology [PDF](https://www.iab.com/wp-content/uploads/2018/07/IAB\_VR-AR\_Glossary\_v5b.pdf)
+* [A complete Virtual Reality glossary](https://web.archive.org/web/20210123134856/https://kei-studios.com/complete-virtual-reality-glossary/)
+* [VR Glossary](https://web.archive.org/web/20190516221157/https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf)
+* Digital Preservation Handbook: [Glossary](https://www.dpconline.org/handbook/glossary)
+
+To do:&#x20;
+
+* Review and agreement on these definitions&#x20;
+* Add visual examples/images to illustrate what is being described
+* Add relevant digital preservation terms
 
 ## VR General <a href="#vr-general" id="vr-general"></a>
 
@@ -151,19 +155,5 @@ Peripheral device/s, often left and right to provide full motion tracking of a p
 
 ### Code Migration
 
-## Other Resources <a href="#resources" id="resources"></a>
 
-**Links to external glossaries:**
-
-* Unity: [What is XR Glossary](https://unity.com/how-to/what-is-xr-glossary)
-* [The VR Glossary](http://www.vrglossary.org/)
-* XinReality wiki: [Terms](https://xinreality.com/wiki/Category:Terms)
-* Oculus Creators Portal: [VR Glossary](https://creator.oculus.com/learn/vr-glossary/)
-* Interactive Advertising Bureau (IAB): AR and VR Terminology [PDF](https://www.iab.com/wp-content/uploads/2018/07/IAB\_VR-AR\_Glossary\_v5b.pdf)
-* [A complete Virtual Reality glossary](https://web.archive.org/web/20210123134856/https://kei-studios.com/complete-virtual-reality-glossary/)
-* [VR Glossary](https://web.archive.org/web/20190516221157/https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf)
-
-**Digital Preservation Terminology:**
-
-* Digital Preservation Handbook: [Glossary](https://www.dpconline.org/handbook/glossary)
 
