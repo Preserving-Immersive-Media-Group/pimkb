@@ -12,9 +12,9 @@ If you are interested in contributing, you can join the team as an Editor by fol
 
 [https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/b20bJHyul40s6q8KYlI9](https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/b20bJHyul40s6q8KYlI9)
 
-Once you have logged in and joined the PIMKB group on GitBook, you will be able to make an edits to pages. When you start an 'Edit', you check out a copy of the entire site which you can work on independently from the live version.&#x20;
+Once you have logged in and joined the PIMKB group on GitBook, you will be able to make an edits to pages. You commence editing by clicking on the 'Edit' button in the top right corner. Changes you make in Edit mode will exist independently from the live version until you submit them for review.
 
-Once you are happy with your edit, you can 'Submit for review', which will then be checked by an admin before being made live. Please include an Edit 'subject' description to help the reviewer understand your change.&#x20;
+Once you are happy with your edit, you can click the 'Submit for review' button in the top right corner, which will then be checked by an administrator before going live. Before submitting for review, please include a brief description of the changes made during your edit by filling in the 'Describe your changes...' field at the top of the page. This will help the reviewer understand the nature of your changes.
 
 For more information on GitBook and how to use it, check out the [GitBook docs](https://docs.gitbook.com/).
 
