@@ -1,12 +1,12 @@
----
-description: >-
-  PIMG runs occasional workshops, webinars and other events - find recordings of
-  presentations, slides and other materials relating to them here.
----
-
 # Past PIMG Events
 
-Event recordings from PIMG events can be found on the [PIMG YouTube channel](https://www.youtube.com/channel/UC1z5czlykhTRQnaYQPhinAw/playlists).&#x20;
+The [Preserving Immersive Media Group](./) (PIMG) runs occasional workshops, webinars and other events - find link to recordings of presentations, slides and other materials relating to them here. Event recordings from PIMG events can be found on the [PIMG YouTube channel](https://www.youtube.com/channel/UC1z5czlykhTRQnaYQPhinAw/playlists).&#x20;
+
+## Knowledge Building Sessions
+
+A series of collaborative events held during 2023-24, focused on knowledge building activities around particular topics in immersive media preservation. Sessions invite participants to share experiences and collectively work towards building knowledge in this field, with a focus on possible contributions to the knowledge base.&#x20;
+
+The first took place on Tuesday 12th December 2023 and collaborative notes from this session can be found here: [https://docs.google.com/document/d/1EeVqwLUY0xnCaV7aICbW8ZOMPLl8jrqd18obppoa83E/edit?usp=sharing](https://docs.google.com/document/d/1EeVqwLUY0xnCaV7aICbW8ZOMPLl8jrqd18obppoa83E/edit?usp=sharing)
 
 ## Documenting the Interactive Documentary Webinar (6 November 2020)
 
@@ -31,8 +31,6 @@ A full abstract can be found on the iPRES website: [https://ipres2019.org/progra
 Detailed notes from the event can be found on the collaborative notepad hosted by Rhizome: [https://notepad.rhizome.org/ipres2019-vr](https://notepad.rhizome.org/ipres2019-vr)
 
 ## Preserving Immersive Media Workshop (8 March 2019)
-
-
 
 ### Slides, Notes and other Documents
 
