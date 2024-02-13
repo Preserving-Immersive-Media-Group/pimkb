@@ -1,6 +1,6 @@
 # Documentation
 
-## **Acquisition Information Templates**
+**Acquisition Information Templates**
 
 These documents were designed to guide information gathering and discussion during the early stages of the acquisition of virtual reality (VR) or augmented reality (AR) artworks, primarily with conservation and long-term preservation in mind. They are designed to be completed by or in close collaboration with an artist prior to receiving media from the artist.
 
@@ -18,8 +18,17 @@ These documents were designed to guide information gathering and discussion duri
 
 * [Version 2](https://docs.google.com/document/d/1VGHHvxMRQc\_OQYjHFW1mTMRa2vL9MGsjiNq1gF4j6l8/edit) (May 2019) developed as an extension of this template by Savannah Campbell and Mark Hellar:&#x20;
 
-{% file src="../../.gitbook/assets/Virtual Reality Artwork Acquisition Template.docx" %}
+{% file src="../../.gitbook/assets/Virtual Reality Artwork Acquisition Template (1).docx" %}
+
+### **Infographic for artists and makers**
+
+The infographic provides artists and makers information about the importance of documenting their work. The infographic answers questions about why it is important for artists and makers to document their work and how they can document their own work.&#x20;
+
+{% file src="../../.gitbook/assets/Infographic Documentation to the Rescue.pdf" %}
+
+{% file src="../../.gitbook/assets/Text Infographic Documentation to the Rescue.docx" %}
 
 ## **Research Papers**
 
 "Augmenting Our Approach to Preservation: Documentation of Experience for Immersive Media" written by [sasha arden](../../contributors/sasha-arden.md) during their 2021–22 graduate internship at Tate. [https://www.tate.org.uk/documents/1793/Augmenting\_Our\_Approach\_to\_Preservation.pdf](https://www.tate.org.uk/documents/1793/Augmenting\_Our\_Approach\_to\_Preservation.pdf)
+
