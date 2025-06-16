@@ -24,7 +24,7 @@ Some information with relevance to XR preservation, quote from the [features lis
 >
 > _Create games on any desktop OS and Android._
 >
-> * **Works on Windows, macOS, Linux, \*BSD and Android **_**(experimental)**_**.**\
+> * **Works on Windows, macOS, Linux, \*BSD and Android&#x20;**_**(experimental)**_**.**\
 >   The editor runs in 32-bit and 64-bit on all platforms, with native Apple Silicon support.
 > * **Small download** (around 35 MB), and you are ready to go.
 > * **Easy to compile** on any platform (no dependency hell).
