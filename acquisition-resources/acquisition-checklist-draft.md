@@ -1,10 +1,17 @@
+---
+description: >-
+  The concept for this page is a checklist of important considerations when
+  bringing XR content into a collection - please help made it useful by adding,
+  editing and commenting!
+---
+
 # Acquisition Checklist
 
 This is an evolving checklist of things to consider when bringing XR materials, experience and artworks into a collection. This is a complex process and involves navigating many uncertainties regarding the future of the technologies involved. While not exhaustive, this checklist is designed to assist navigating this process by highlighting key activities and questions to consider.&#x20;
 
 For **all XR** materials:
 
-* Work closely with the creator and/or their team to understand the components of the XR experience and document what is learnt during this process — see [Documentation Templates](documentation/).
+* Work closely with the creator and/or their team to understand the components of the XR experience and document what is learnt during this process — see [Documentation Templates](documentation-templates.md).
 * Understand the way in which the XR experience has been presented in the past and gather any relevant documentation to support transmitting this understanding.&#x20;
 * Assess how immediate the need for access to display equipment is and source anything missing. This might include:&#x20;
   * XR equipment (e.g. HMD, tracking system...) — at least one set.

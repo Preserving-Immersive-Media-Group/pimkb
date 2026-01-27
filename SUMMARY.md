@@ -41,8 +41,8 @@
 
 ## Acquisition Resources
 
-* [Acquisition Checklist](acquisition-resources/acquisition-checklist.md)
-* [Documentation](acquisition-resources/documentation/README.md)
+* [Acquisition Checklist](acquisition-resources/acquisition-checklist-draft.md)
+* [Documentation](acquisition-resources/documentation-templates.md)
   * [Video Documentation](acquisition-resources/documentation/video-documentation.md)
 * [Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)
   * [Archiving an Unreal Engine 4 Source Project](acquisition-resources/software-archiving-guides/archiving-an-unreal-engine-4-source-project.md)

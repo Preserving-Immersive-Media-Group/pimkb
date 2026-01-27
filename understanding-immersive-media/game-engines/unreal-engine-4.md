@@ -1,14 +1,14 @@
 ---
 description: >-
-  This page is designed to help you understand what Unreal Engine 4 is and how
-  it can be used by creators.
+  This page is designed to help you understand what Unreal Engine 4 is, how it
+  can be used by creators and its current prospects for long-term preservation.
 ---
 
 # Unreal Engine 4
 
-Unreal Engine 4 (UE4) is a real-time 3D engine developed by Epic Games. The first version of Unreal Engine was created during the development of the 1998 game Unreal, at which point Epic Game started licencing the engine to other developers. Version 4.0 was released in 2014, and has been followed by 27 subversions (the latest is 4.27). Unreal Engine 5, announced in 2020, is expected to supersede UE4 at some point in the near future. UE4 is not an open-source engine (see the EULA), but the engine source code is freely available via their GitHub repository.&#x20;
+Unreal Engine 4 (UE4) is a game engine developed by Epic Games. The first version of Unreal Engine was created during the development of the 1998 game Unreal, at which point Epic Game started licencing the engine to other developers. Version 4.0 was released in 2014, and has been followed by 27 subversions (the latest is 4.27). Unreal Engine 5, announced in 2020, is expected to supersede UE4 at some point in the near future. UE4 is not an open-source engine (see the EULA), but the engine source code is freely available via their GitHub repository.&#x20;
 
-![A simple 3D scene open in the Unreal Engine 4.27 editor.](../../.gitbook/assets/UE4\_27\_Interface.png)
+![A simple 3D scene open in the Unreal Engine 4.27 editor.](../../.gitbook/assets/UE4_27_Interface.png)
 
 ## Anatomy of a UE4 Project
 
@@ -48,7 +48,7 @@ Some elements dependent on whether Development or Shipping option is selected pr
 
 ### Export Formats
 
-When an asset is imported to Unreal Engine 4 it is converted to the UE4 UASSET (.uasset) format. This format is not well documented, although there is some partial reverse engineering work [here](http://wiki.xentax.com/index.php/Unreal\_Engine\_4\_UASSET). A UASSET can be re-exported from the engine in a variety of formats depending on the asset type. To do so, you need to right click on the asset in the Content Browser, and navigate to Asset Actions -> Export.&#x20;
+When an asset is imported to Unreal Engine 4 it is converted to the UE4 UASSET (.uasset) format. This format is not well documented, although there is some partial reverse engineering work [here](http://wiki.xentax.com/index.php/Unreal_Engine_4_UASSET). A UASSET can be re-exported from the engine in a variety of formats depending on the asset type. To do so, you need to right click on the asset in the Content Browser, and navigate to Asset Actions -> Export.&#x20;
 
 The information below was derived from testing in Unreal Engine 4.27. Note that is simply a list of the export formats available and exports have not been tested against original import format.&#x20;
 
@@ -88,6 +88,6 @@ These dependencies are required to build software from the editor for particular
 ## UE4 Resources
 
 * Epic Game, Unreal Engine 4.27 Glossary, URL: [https://docs.unrealengine.com/4.27/en-US/Basics/Glossary/](https://docs.unrealengine.com/4.27/en-US/Basics/Glossary/)
-* David Lightbown, 2018, _Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor_. URL: [https://web.archive.org/web/20180823012812/https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic\_Tools\_Retrospective\_Tim\_Sweeney\_on\_the\_first\_version\_of\_the\_Unreal\_Editor.php](https://web.archive.org/web/20180823012812/https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic\_Tools\_Retrospective\_Tim\_Sweeney\_on\_the\_first\_version\_of\_the\_Unreal\_Editor.php)
+* David Lightbown, 2018, _Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor_. URL: [https://web.archive.org/web/20180823012812/https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic\_Tools\_Retrospective\_Tim\_Sweeney\_on\_the\_first\_version\_of\_the\_Unreal\_Editor.php](https://web.archive.org/web/20180823012812/https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php)
 *
 
