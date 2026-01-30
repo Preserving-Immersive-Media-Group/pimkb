@@ -1,4 +1,4 @@
-# 🧐 Open Questions
+# ❓ Open Questions
 
 The preservation of immersive media is an emerging topic in digital preservation and presents many new challenges and opportunities for research. This page is a place for tracking questions and prompts that we have arrived at through research, discussion and daydreaming. Do you think you can contribute an answer to any these or do you have any questions of your own? We'd love your [contribution](contributing.md)!
 

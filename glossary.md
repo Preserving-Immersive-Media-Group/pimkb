@@ -1,19 +1,19 @@
-# ⁉ Glossary
+# 🔠 Glossary
 
-This glossary is an effort to define frequently encountered immersive media terminology and support a common vocabulary in collaboration between disciplines. The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) was compiled during iPRES 2019 by participants in the VR Hackathon event. Definitions are sourced from the following existing online glossaries:&#x20;
+This glossary is an effort to gather definitions of frequently encountered immersive media terminology and support a common vocabulary in collaboration between disciplines. The [first version](https://notepad.rhizome.org/ipres2019-vr-glossary) was compiled during iPRES 2019 by participants in the VR Hackathon event, using definitions sourced from existing online glossaries:&#x20;
 
 * Unity: [What is XR Glossary](https://unity.com/how-to/what-is-xr-glossary)
 * [The VR Glossary](http://www.vrglossary.org/)
 * XinReality wiki: [Terms](https://xinreality.com/wiki/Category:Terms)
 * Oculus Creators Portal: [VR Glossary](https://creator.oculus.com/learn/vr-glossary/)
-* Interactive Advertising Bureau (IAB): AR and VR Terminology [PDF](https://www.iab.com/wp-content/uploads/2018/07/IAB\_VR-AR\_Glossary\_v5b.pdf)
+* Interactive Advertising Bureau (IAB): AR and VR Terminology [PDF](https://www.iab.com/wp-content/uploads/2018/07/IAB_VR-AR_Glossary_v5b.pdf)
 * [A complete Virtual Reality glossary](https://web.archive.org/web/20210123134856/https://kei-studios.com/complete-virtual-reality-glossary/)
 * [VR Glossary](https://web.archive.org/web/20190516221157/https://www.ebu.ch/files/live/sites/ebu/files/Projects/VR/VR%20Glossary.pdf)
 * Digital Preservation Handbook: [Glossary](https://www.dpconline.org/handbook/glossary)
 
 To do:&#x20;
 
-* Review and agreement on these definitions&#x20;
+* Review and agree on these definitions&#x20;
 * Add visual examples/images to illustrate what is being described
 * Add relevant digital preservation terms
 
@@ -69,7 +69,7 @@ To do:&#x20;
 
 [**Multi-sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): It relies on color manipulation around geometric shapes to produce an effect of smoothness. It can use either 2, 4 or 8 samples – the higher the sample count, the higher the quality and the performance impact.
 
-[**Super Sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): What it does is make the GPU render a game at a higher resolution and then downsamples it. That way, it increases the overall pixel density of your display and renders a much sharper image.
+[**Super Sampling Anti-Aliasing**](https://www.gamingscan.com/what-is-anti-aliasing/): Force the GPU to render a game at a higher resolution and then downsample it. That way, it increases the overall pixel density of your display and renders a much sharper image.
 
 **Bloom**: Creates blurry feathered edges to light sources in post-processing
 
@@ -101,7 +101,7 @@ To do:&#x20;
 
 **Motion tracking**: The use of positional sensors and markers that register where a device is, allowing it to be mapped to a virtual environment.
 
-[**Rotational tracking**](https://xinreality.com/wiki/Rotational\_tracking): is a term used to describe how a piece of hardware determines how tilted something is. There are three different ways that an object can rotate, we call each of these ways a degrees of freedom, and you can track any number of degrees of freedom (see above for 3DoF and 6DoF).
+[**Rotational tracking**](https://xinreality.com/wiki/Rotational_tracking): is a term used to describe how a piece of hardware determines how tilted something is. There are three different ways that an object can rotate, we call each of these ways a degrees of freedom, and you can track any number of degrees of freedom (see above for 3DoF and 6DoF).
 
 **Positional sensor**: Devices used to track the exact position of the user while they are using a VR system, and feedback data that is used to inform the information being shown on the screen.
 

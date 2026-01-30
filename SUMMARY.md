@@ -1,9 +1,9 @@
 # Table of contents
 
 * [📍 Preserving Immersive Media Knowledge Base](README.md)
-* [⁉️ Glossary](glossary.md)
+* [🔠 Glossary](glossary.md)
 * [📚 Bibliography](bibliography.md)
-* [🧐 Open Questions](open-questions.md)
+* [❓ Open Questions](open-questions.md)
 * [👋 Community](community/README.md)
   * [Past PIMG Events](community/past-pimg-events.md)
   * [PIMG Groups.io](https://groups.io/g/pimg)
@@ -11,7 +11,6 @@
 * [❤️ Contributors](contributors/README.md)
   * [sasha arden](contributors/sasha-arden.md)
   * [⛄ Rasa Bocyte](contributors/rasa-bocyte.md)
-  * [🦆 Tom Ensom](contributors/tom-ensom.md)
   * [Eric Kaltman](contributors/eric-kaltman.md)
   * [🚗 Jack McConchie](contributors/jack-mcconchie.md)
   * [🧜‍♂️ Jesse de Vos](contributors/jesse-de-vos.md)
@@ -19,39 +18,42 @@
 * [🤝 Code of Conduct](code-of-conduct.md)
 * [📜 Licence](licence.md)
 
-## Understanding Immersive Media
+## Getting Started
 
-* [Introduction](understanding-immersive-media/tech-overview.md)
-* [Virtual Reality (VR)](understanding-immersive-media/virtual-reality-vr.md)
-* [Augmented Reality (AR)](understanding-immersive-media/augmented-reality-ar.md)
-* [XR Systems](understanding-immersive-media/xr-systems/README.md)
-  * [Head-Mounted Display (HMD)](understanding-immersive-media/xr-systems/head-mounted-display.md)
-  * [Tracking System](understanding-immersive-media/xr-systems/tracking-system.md)
-  * [XR Runtime](understanding-immersive-media/xr-systems/xr-runtimes/README.md)
-    * [OpenXR](understanding-immersive-media/xr-systems/xr-runtimes/openxr.md)
-* [360° Video](understanding-immersive-media/360-video/README.md)
-  * [Video Formats](understanding-immersive-media/360-video/video-formats.md)
-  * [Tools](understanding-immersive-media/360-video/tools.md)
-  * [Metadata Standards](understanding-immersive-media/360-video/metadata-standards.md)
-* [Game Engines](understanding-immersive-media/game-engines/README.md)
-  * [Unity](understanding-immersive-media/game-engines/unity.md)
-  * [Unreal Engine 4](understanding-immersive-media/game-engines/unreal-engine-4.md)
-  * [Godot](understanding-immersive-media/game-engines/godot.md)
-* [Audio](understanding-immersive-media/audio.md)
+* [Overview](getting-started/tech-overview.md)
+* [Initial Assessment](getting-started/initial-assessment.md)
+* [Documentation](getting-started/documentation.md)
+* [Further Reading](getting-started/further-reading.md)
 
-## Acquisition Resources
+## Preserving XR Hardware
 
-* [Acquisition Checklist](acquisition-resources/acquisition-checklist-draft.md)
-* [Documentation](acquisition-resources/documentation-templates.md)
-  * [Video Documentation](acquisition-resources/documentation/video-documentation.md)
-* [Software Archiving Guides](acquisition-resources/software-archiving-guides/README.md)
-  * [Archiving an Unreal Engine 4 Source Project](acquisition-resources/software-archiving-guides/archiving-an-unreal-engine-4-source-project.md)
-  * [Archiving a Unity 5 Source Project](acquisition-resources/software-archiving-guides/archiving-a-unity-5-source-project.md)
-  * [Archiving an XR Runtime](acquisition-resources/software-archiving-guides/archiving-an-xr-runtime.md)
+* [Introduction](preserving-xr-hardware/introduction/README.md)
+  * [XR Systems](preserving-xr-hardware/introduction/head-mounted-display.md)
+  * [Supporting Software](preserving-xr-hardware/introduction/xr-runtimes/README.md)
+    * [OpenXR](preserving-xr-hardware/introduction/xr-runtimes/openxr.md)
+    * [Archiving an XR Runtime](preserving-xr-hardware/introduction/xr-runtimes/archiving-an-xr-runtime.md)
+* [Preservation Strategies](preserving-xr-hardware/preservation-strategies/README.md)
+  * [Repair Guides](preserving-xr-hardware/preservation-strategies/repair-guides.md)
 
-## Preservation Resources
+## Preserving 3D Software
 
-* [Digital Preservation Standards](preservation-resources/digital-preservation-standards.md)
-* [Mobile Platforms](preservation-resources/mobile-platforms.md)
-* [Software Tools](preservation-resources/software-tools.md)
-* [Repair Guides](preservation-resources/repair-guides.md)
+* [Introduction](preserving-3d-software/introduction.md)
+* [Game Engines](preserving-3d-software/game-engines/README.md)
+  * [Unity](preserving-3d-software/game-engines/unity/README.md)
+    * [Archiving a Unity 5 Source Project](preserving-3d-software/game-engines/unity/archiving-a-unity-5-source-project.md)
+  * [Unreal Engine 4](preserving-3d-software/game-engines/unreal-engine-4/README.md)
+    * [Archiving an Unreal Engine 4 Source Project](preserving-3d-software/game-engines/unreal-engine-4/archiving-an-unreal-engine-4-source-project.md)
+  * [Godot](preserving-3d-software/game-engines/godot.md)
+* [Mobile Platforms](preserving-3d-software/mobile-platforms.md)
+* [3D Data](preserving-3d-software/3d-data.md)
+* [Software Tools](preserving-3d-software/software-tools.md)
+* [Video Documentation](preserving-3d-software/video-documentation.md)
+* [Preservation Strategies](preserving-3d-software/preservation-strategies.md)
+
+## Preserving 360° Video
+
+* [Introduction](preserving-360-video/360-video.md)
+* [Video Formats](preserving-360-video/video-formats.md)
+* [Metadata Standards](preserving-360-video/metadata-standards.md)
+* [Spatial Audio](preserving-360-video/spatial-audio.md)
+* [Tools](preserving-360-video/tools.md)

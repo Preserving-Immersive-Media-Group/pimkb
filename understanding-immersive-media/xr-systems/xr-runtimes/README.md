@@ -1,6 +1,0 @@
-# XR Runtime
-
-An XR runtime is a software package which provides XR applications with access to XR platforms and devices. It can also implement functionality. Examples include the Oculus runtime and the SteamVR runtime. An XR runtimes can provide XR applications with a variety of interfaces with which to interact with them, which might conform to a standard such as [OpenXR](openxr.md) or OpenVR.&#x20;
-
-<table><thead><tr><th>Runtime Name</th><th width="150">OpenXR Support</th><th>OS Support</th><th>Download Packages</th></tr></thead><tbody><tr><td>Oculus Runtime</td><td>Yes</td><td>Windows 10</td><td>Current version only downloadable through Oculus client. Legacy versions available on <a href="https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/">https://developer.oculus.com/downloads/package/oculus-runtime-for-windows/</a></td></tr><tr><td>SteamVR</td><td>Yes</td><td><p>Windows 7 (SP1)</p><p>Windows 8.1 </p><p>Windows 10</p></td><td>Can only be downloaded through Steam (see <a href="../../../acquisition-resources/software-archiving-guides/archiving-an-xr-runtime.md">Archiving XR Runtimes</a>).</td></tr><tr><td>Monado</td><td>Yes</td><td>Linux</td><td>Source code available from <a href="https://gitlab.freedesktop.org/monado/monado">GitLab</a>, build packages available for Debian and Ubuntu. </td></tr></tbody></table>
-
