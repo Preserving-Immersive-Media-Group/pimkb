@@ -24,7 +24,7 @@ For more information on GitBook and how to use it, check out the [GitBook docs](
 
 If you'd like to help or support with contributing or using the GitBook platform, or just want to chat about an idea for a contribution, please do get in touch with the site admins:&#x20;
 
-* Tom Ensom: tom.ensom \[at] tate.org.uk
+* Tom Ensom: tom \[at] tomensom.com
 * Jack McConchie: jack.mcconchie \[at] tate.org.uk
 
 

@@ -60,8 +60,6 @@ If a participant engages in harassing behavior, the response team may take any a
 
 ### Response Team <a href="#consequences" id="consequences"></a>
 
-Rasa Boycte: rbocyte \[at] beeldengeluid.nl
-
-Tom Ensom: tom.ensom \[at] tate.org.uk
+Tom Ensom: tom \[at] tomensom.com
 
 Jack McConchie: jack.mcconchie \[at] tate.org.uk
