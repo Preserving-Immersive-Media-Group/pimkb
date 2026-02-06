@@ -21,11 +21,11 @@
 
 ## Preserving XR Hardware
 
-* [Introduction](preserving-xr-hardware/introduction/README.md)
-  * [XR Systems](preserving-xr-hardware/introduction/head-mounted-display.md)
-  * [Supporting Software](preserving-xr-hardware/introduction/xr-runtimes/README.md)
-    * [OpenXR](preserving-xr-hardware/introduction/xr-runtimes/openxr.md)
-    * [Archiving an XR Runtime](preserving-xr-hardware/introduction/xr-runtimes/archiving-an-xr-runtime.md)
+* [Introduction](preserving-xr-hardware/introduction.md)
+* [XR Systems](preserving-xr-hardware/head-mounted-display.md)
+* [Supporting Software](preserving-xr-hardware/xr-runtimes/README.md)
+  * [OpenXR](preserving-xr-hardware/xr-runtimes/openxr.md)
+  * [Archiving an XR Runtime](preserving-xr-hardware/xr-runtimes/archiving-an-xr-runtime.md)
 * [Preservation Strategies](preserving-xr-hardware/preservation-strategies/README.md)
   * [Repair Guides](preserving-xr-hardware/preservation-strategies/repair-guides.md)
 

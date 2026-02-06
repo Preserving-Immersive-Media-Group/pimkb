@@ -1,14 +1,10 @@
 # Introduction
 
-Software can be used to generate a moving image sequence in real-time from 3D data sources. As frames are generated in real-time, this can be dynamic and/or interactive. This can be contrasted with video, where frames are encoded and played back linearly.
+**3D software** involves the use of software to dynamically generate a moving image sequence from 3D data and code. The real-time nature of the process means that the moving image sequence can be dynamic and responsive to user interaction. This can be contrasted with video, where frames are encoded and played back linearly. In practice, 3D software technologies used in XR production are often very similar to those involved in the creation of video games e.g. game engines, 3D modelling, texturing.&#x20;
 
 Existing software frameworks and tools are typically used as a starting point for development of 3D software, from which a distributable form of the software is generated. Development for desktop or mobile applications is typically using a [game engine](game-engines/). This can result in builds supporting different platforms e.g. desktop, mobile, web. Development for the web may involve the use of web frameworks like [Three.js](https://threejs.org/) and [A-Frame](https://aframe.io/).
 
 ## Assessing 3D Software
-
-[**3D Software**](introduction.md) involves the use of software to dynamically generate a moving image sequence from 3D data and code. The real-time nature of the process means that the moving image sequence can be dynamic and responsive to user interaction. In practice, the technologies used here are often very similar to those involved in the creation of video games e.g. game engines, 3D modelling.&#x20;
-
-Assessing 3D software involves identifying how it was made and how it can be accessed:&#x20;
 
 * What **tools** were used in its creation and why were these chosen? e.g. [game engines](game-engines/), development frameworks, version control
 * If a [**game engine**](game-engines/) was used:&#x20;
