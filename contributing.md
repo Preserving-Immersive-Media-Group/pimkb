@@ -10,7 +10,7 @@ If you contribute, please do add your name to the [list of contributors](contrib
 
 If you are interested in contributing, you can join the team as an Editor by following this link:&#x20;
 
-[https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/b20bJHyul40s6q8KYlI9](https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/b20bJHyul40s6q8KYlI9)
+[https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/-MiR08BPTCMWQ8M\_fgLZ](https://app.gitbook.com/invite/-MiR-vfqFP7-QsvY8wdc/-MiR08BPTCMWQ8M_fgLZ)
 
 Once you have logged in and joined the PIMKB group on GitBook, you will be able to make edits to pages:
 
