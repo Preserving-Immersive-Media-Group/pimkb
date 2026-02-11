@@ -33,7 +33,7 @@ This section considers where an XR experience has come from, including establish
 
 Immersive media technologies can be used to create experiences that combine elements of physical and virtual environments in different ways. The following terms are frequently used to characterise types of immersive media:&#x20;
 
-* **Virtual Reality (VR)** refers to experiences where a user is fully immersed in a virtual environment. All elements of the environment experienced are virtual (typically through an [HMD](../preserving-xr-hardware/head-mounted-display.md)) and the user is unable to see the physical environment they are occupying.&#x20;
+* **Virtual Reality (VR)** refers to experiences where a user is fully immersed in a virtual environment. All elements of the environment experienced are virtual (typically through an [HMD](../preserving-xr-hardware/head-mounted-display/)) and the user is unable to see the physical environment they are occupying.&#x20;
 * **Augmented Reality (AR)** refers to experiences which add virtual elements to a real-world physical environment. The environment experienced combines virtual and real-world elements, the former often being superimposed onto a camera feed of the latter.
 * **Mixed Reality (MR)** combines elements of VR and AR.&#x20;
 

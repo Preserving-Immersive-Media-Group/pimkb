@@ -1,8 +1,10 @@
 # Archiving an XR Runtime
 
-An XR runtime is a piece of software that support communication between XR software and hardware. This page describes the process for extracting an XR runtime as a contained unit of software, so that it can be archived independently of a computer system.
+{% hint style="warning" %}
+This page has been deprecated is it no longer represents our recommend approach. We would instead recommend migrating XR projects to [OpenXR](openxr.md), which provides a degree of backwards compatibility.
+{% endhint %}
 
-XR runtime are often distributed using front-end tools that carry out downloading and installation in the background (e.g. SteamVR is downloaded through Steam). This makes it harder to extract and archive them for reuse in the future. This page describes the process of extracting different XR runtimes for independent archiving.&#x20;
+This page describes the process for extracting an XR runtime as a contained unit of software, so that it can be archived independently of a computer system. XR runtime are often distributed using front-end tools that carry out downloading and installation in the background (e.g. SteamVR is downloaded through Steam). This makes it harder to extract and archive them for reuse in the future. This page describes the process of extracting different XR runtimes for independent archiving.&#x20;
 
 ## Oculus (Windows)
 
@@ -22,15 +24,12 @@ These instructions are adapted from Valve's [guidelines for offline installation
 
 4\. Right-click on the entry "SteamVR" and in the resulting popup menu click on the entry "Properties".
 
-![](../../../.gitbook/assets/Archiving_SteamVR_1.png)
+![](../../.gitbook/assets/Archiving_SteamVR_1.png)
 
 5\. A new window with multiple tabs will open. Select the tab "LOCAL FILES" and click on the button labeled "BROWSE LOCAL FILES".
 
-![](../../../.gitbook/assets/Archiving_SteamVR_2.png)
+![](../../.gitbook/assets/Archiving_SteamVR_2.png)
 
 6\. The directory containing the SteamVR Runtime will open. Copying this entire directory will capture the files required to run SteamVR on another computer. From this directory, SteamVR can be launched by running the "vrstartup.exe" executable file in "\SteamVR\bin\win64".
 
-![](../../../.gitbook/assets/Archiving_SteamVR_3.png)
-
-
-
+![](../../.gitbook/assets/Archiving_SteamVR_3.png)

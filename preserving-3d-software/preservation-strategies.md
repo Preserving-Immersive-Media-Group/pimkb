@@ -4,7 +4,7 @@ Preservation strategies are applied to XR content to guide it into the future. I
 
 Another consideration in developing a preservation strategy is its sustainability. If possible, a preservation strategy should reduce dependencies and stabilises the software so that the frequency interventive preservation measures is reduced.
 
-3D software used in AR and VR can be highly dependent on specific hardware, particularly the HMD with its sensors, optics and electronics. To make a XR material more widely compatible, it can be made headset-independent. Currently this is supported by building in [OpenXR](../preserving-xr-hardware/xr-runtimes/openxr.md) support, an open standard for XR software. If this cannot be used, alternative migration approaches or emulation can be used. These various strategies are discussed in more detail in the sections below.
+3D software used in AR and VR can be highly dependent on specific hardware, particularly the HMD with its sensors, optics and electronics. To make a XR material more widely compatible, it can be made headset-independent. Currently this is supported by building in [OpenXR](../preserving-xr-hardware/head-mounted-display/openxr.md) support, an open standard for XR software. If this cannot be used, alternative migration approaches or emulation can be used. These various strategies are discussed in more detail in the sections below.
 
 ## Preparation
 

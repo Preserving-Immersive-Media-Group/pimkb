@@ -17,20 +17,22 @@ Existing software frameworks and tools are typically used as a starting point fo
 * How were any **audio** elements designed? Is sound dynamically triggered or from linear playback source?
 * How **compatible** is the software with contemporary XR platforms? This will depend on how support has been built into the software during creation and how it has been distributed/displayed in the past e.g.
   * Was the software developed to run on a specific **computing platform?** e.g. Windows PC, Mac OS, Android, web platforms (A-Frame, Three.js) etc.
-  * Was the software developed to run with a specific **XR hardware platform**? e.g. Oculus, SteamVR etc.
+  * Does the software support the [**OpenXR standard**](../preserving-xr-hardware/head-mounted-display/openxr.md)? Or was the software developed to run with a specific **XR hardware platform**? e.g. Oculus, SteamVR etc.
   * Does it make use of any external resources? e.g. additional software (e.g. Max); resources accessed via the internet etc.
 * Are **source materials** available and how complex would these be to meaningfully preserve?&#x20;
   * What tools are needed to **build** the project from source materials as a standalone app/executable/webpage?&#x20;
   * Could source materials be **modified** to update the software?&#x20;
 * Has **documentation of the experience** been supplied? If not, can it be created? e.g. fixed-perspective video capture, 360-degree video capture, installation photographs/video
 
-## Acquisition Checklist
+## Preservation Preparedness
 
 The following measures can help support long-term access to 3D software and prepare for future preservation interventions:
 
 * Archive a copy of the **executable software** (ideally supporting as many operating systems and XR runtimes as possible).
 * Identify, gather and test the **dependencies required to access the executable software** (e.g. operating systems, libraries, XR runtime, drivers).
 * Archive a copy of the **source materials** (be it code or an engine project) and dependencies required to build the project — see [Software Archiving Guides](introduction.md).
+  * If built in a game engine, consider **migrating** the source project to the latest release (ideally a Long-Term Support release, if available).
+  * Consider adding support for the [**OpenXR standard**](../preserving-xr-hardware/head-mounted-display/openxr.md), either via plugin (for game engines) or modifications to the code (code-based projects).
 * Identify, gather and test **dependencies required to access source materials**.
 * Source or create **documentation** of the software running.
 

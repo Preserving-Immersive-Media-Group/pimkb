@@ -20,9 +20,9 @@
   * Whether the video is **monoscopic or stereoscopic**.
   * What **codec and pixel format** has the video has been encoded with?&#x20;
 
-## Acquisition Checklist
+## Preservation Preparedness
 
-The following measures can help ensure long-term access to 360° video:
+The following measures can help ensure long-term access to and preservation of 360° video:
 
 * Ensuring metadata has been captured describing the projection format and mono/stereoscopic format used.
 * Ensuring the video file received is the [highest quality available](#user-content-fn-1)[^1].
