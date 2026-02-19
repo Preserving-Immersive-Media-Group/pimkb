@@ -8,7 +8,7 @@ Common components of XR systems include:
 * **Human Input Device (HID)** which allows the user to interact with elements of the virtual experience (e.g. by pressing buttons or moving a joystick).
 * **Tracking system** which translates user movement in the physical environment into movement in the virtual environment using camera and/or sensor data. In practice this is often integrated, at least partially, into HMD and/or HID devices
 * **Computer system** to run the XR software, which can be integrated into the headset (e.g. in the Oculus Quest series) or run standalone (for tethered headsets like the Oculus Rift S or Valve Index).
-* [**Supporting software**](/broken/pages/-MhEDeOt4_pd5lLf9Blz) which provides interfaces between these hardware components and XR software.
+* [**Supporting software**](./#supporting-software) which provides interfaces between these hardware components and XR software.
 
 These components can be integrated to varying degrees (e.g. an HMD can contain a tracking system), as described in the subsections below.
 
