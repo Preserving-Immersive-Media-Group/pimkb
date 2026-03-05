@@ -2,8 +2,8 @@
 
 Video documentation can be used to record aspects of an immersive media (IM) experience. This can take two complementary forms:&#x20;
 
-* Physical capture: Video recording of the real-world physical actions of a user interacting with an IM experience.&#x20;
-* Virtual capture: Video recording of the virtual actions of a user interacting with an IM experience, as would be sent to a display device.&#x20;
+* Physical capture: Video recording of the real-world physical actions of a user interacting with an XR experience.&#x20;
+* Virtual capture: Video recording of the virtual actions of a user interacting with an XR experience, as would be sent to a display device.&#x20;
 
 ## Virtual Video Capture
 
@@ -14,15 +14,11 @@ Virtual video capture can produce two kinds of video:
 
 ### Capturing Video from an Application
 
-Hardware and software tools can be used to capture video from a real-time 3D application. This can be fixed-perspective or 360 video.&#x20;
+Hardware and software tools can be used to capture video from a real-time 3D application. This can be fixed-perspective or 360-degree video, though we are not aware of any hardware tools which can capture 360-degree video from an HMD device.
 
 #### Software Tools
 
-| Tool                                                                                                                                               | Description                                                                                   | Capture Formats |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------- |
-| [Open Broadcaster Software (OBS)](https://obsproject.com/)                                                                                         | Free and open source software for video recording. Cross-platform (Windows, MacOS and Linux). |                 |
-| [NVIDIA ShadowPlay](https://www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/)                                                           | Requires NVIDIA GPU.                                                                          |                 |
-| [Xbox Game Bar](https://support.microsoft.com/en-us/windows/record-a-game-clip-on-your-pc-with-xbox-game-bar-2f477001-54d4-1276-9144-b0416a307f3c) | Windows 10/11 built-in tool.                                                                  |                 |
+<table data-full-width="false"><thead><tr><th>Tool</th><th width="213.60009765625">Description</th><th width="167.2001953125">Platform</th><th width="110.599853515625">FOSS?</th><th>360 Video Support?</th></tr></thead><tbody><tr><td><a href="https://www.amd.com/en/resources/support-articles/faqs/DH-023.html">AMD Radeon ReLive</a></td><td>Screen capture in real-time 3D applications running on an AMD Radeon graphics card.</td><td>Windows</td><td>❌</td><td></td></tr><tr><td><a href="https://www.liv.tv/">LIV</a></td><td>Live capture from spawnable cameras in Unreal and Unity game engines (required support to be built in to target application).</td><td>Windows, SteamVR</td><td>❌</td><td></td></tr><tr><td><a href="https://obsproject.com/">Open Broadcaster Software (OBS)</a></td><td>Free and open source software for video recording. Combine multiple computer sources in custom layout, with switching.</td><td>Windows, MacOS and Linux</td><td>✔️</td><td></td></tr><tr><td><a href="https://www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/">NVIDIA ShadowPlay</a></td><td>Screen capture in real-time 3D applications (no 360 video recording)</td><td>NVIDIA GeForce graphics cards</td><td>❌</td><td>❌</td></tr><tr><td><a href="https://support.microsoft.com/en-us/windows/record-a-game-clip-on-your-pc-with-xbox-game-bar-2f477001-54d4-1276-9144-b0416a307f3c">Xbox Game Bar</a></td><td></td><td>Windows</td><td>❌</td><td></td></tr><tr><td><a href="https://developer.oculus.com/blog/announcing-360-capture-sdk/">Oculus 360 Capture SDK</a></td><td>360 video recording in real-time 3D applications.</td><td>Unity, Unreal, NVIDIA and AMD GPUs</td><td>❌</td><td>✔️</td></tr><tr><td><a href="https://www.surrealcapture.com/">Surreal Capture</a></td><td>360 video recording in real-time 3D applications.</td><td>Windows</td><td>❌</td><td>✔️</td></tr><tr><td><a href="https://docs.unity3d.com/Packages/com.unity.recorder@5.1/manual/index.html">Unity Recorder Package</a></td><td>Package for the Unity game engine which allows capture of video and images.</td><td>Unity Editor 2023.1+</td><td>❌</td><td></td></tr><tr><td><a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/panoramic-capture-tool-in-unreal-engine">Unreal Panoramic Capture Plugin</a></td><td>Experimental plugin that captures stereoscopic still images or video.</td><td>Unreal Engine 4.27+ (deprecated in version 5.3)</td><td><p>➖ </p><p>(EULA restrictions apply)</p></td><td>✔️</td></tr><tr><td>Unreal Panoramic Rendering feature in Movie Render Queue</td><td></td><td>Unreal Engine 5.0+</td><td><p>➖ </p><p>(EULA restrictions apply)</p></td><td>✔️</td></tr></tbody></table>
 
 ### Rendering Fixed-Perspective Video in the UE4 Editor
 
@@ -43,7 +39,7 @@ Video export format depends on the options you select in the Render Movie Settin
 
 There are some configurable options, including output video resolution and framerate.&#x20;
 
-The uncompressed video option yields the best quality output but the video files produced are VERY large - in our test 8 sec of capture (1080p at 24fps) yielded a 1.5 GB file. Take care that you have enough storage space to capture in this format if you are going to use this setting, at which point you can convert to lossless compression format like FFV1 for storage.&#x20;
+The uncompressed video option yields the best quality output but the video files produced are VERY large - during testing 8 seconds of capture (1080p at 24fps) yielded a 1.5 GB file. Take care that you have enough storage space to capture in this format if you are intending to use this setting. After capture you may wish to convert to a lossless compression format like FFV1 for storage.&#x20;
 
 #### Workflow
 
@@ -71,7 +67,3 @@ There are other 360 export tools that can be purchased in the Unreal marketplace
 #### UE4 Panoramic Capture Tool Workflow
 
 \[workflow to be added here]
-
-## Physical Video Capture
-
-\[To be added]

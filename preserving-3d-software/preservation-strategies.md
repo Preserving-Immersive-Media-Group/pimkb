@@ -1,14 +1,12 @@
 # Preservation Strategies
 
-Preservation strategies are applied to XR content to guide it into the future. In an ideal world, full functionality and the same look and feel would be a preservation goal. However, in the real world technical limitations and limited resources may apply. Stakeholders need to agree on acceptable degrees of loss or change to the artwork and develop the preservation strategy accordingly.&#x20;
-
-Another consideration in developing a preservation strategy is its sustainability. If possible, a preservation strategy should reduce dependencies and stabilises the software so that the frequency interventive preservation measures is reduced.
-
-3D software used in AR and VR can be highly dependent on specific hardware, particularly the HMD with its sensors, optics and electronics. To make a XR material more widely compatible, it can be made headset-independent. Currently this is supported by building in [OpenXR](../preserving-xr-hardware/head-mounted-display/openxr.md) support, an open standard for XR software. If this cannot be used, alternative migration approaches or emulation can be used. These various strategies are discussed in more detail in the sections below.
+XR content is highly dependent on specific hardware, particularly the HMD with its sensors, optics and electronics. Unfortunately, any single XR hardware system can be expected to eventually failure, particularly with regular use. Furthermore, the rapid obsolescence of these technologies is likely to eventually render them unrepairable and unreplaceable. Preservation strategies are applied to XR content to maintain access, despite these challenges, and so guide it into the future.&#x20;
 
 ## Preparation
 
-In order to select and successfully apply a preservation strategy, you need to understand what it is you are trying to preserve. A good starting point for this is our [initial assessment](../getting-started/initial-assessment.md) page. Working through these questions, ideally in consultation with the stakeholders of the XR material, you are aiming to identify:
+In order to select and successfully apply a preservation strategy, you need to understand what it is you are trying to preserve. In an ideal world, full functionality and the same look and feel would be a preservation goal. However, in the real world technical limitations and limited resources may apply. From the outset of any interventive preservation work, stakeholders need to agree on acceptable degrees of loss or change to the artwork and develop the preservation strategy accordingly.&#x20;
+
+A good starting point for this is our [initial assessment](../getting-started/initial-assessment.md) page. Working through these questions, ideally in consultation with the stakeholders of the XR material, you are aiming to identify:
 
 * Which components or characteristics of the software are core to the XR experience? e.g. functionality, look and feel, user experience, quantitative / technical parameters; physical integrity.
 * Which are variable or less important? Perfect replication may not be necessary to realise the XR experience authentically.
@@ -18,6 +16,8 @@ In order to select and successfully apply a preservation strategy, you need to u
   * Quantitative and technical parameters (e.g. framerate, frametime, display resolution) can be useful when assessing video or sound quality.&#x20;
 
 This approach will help you determine what can and cannot change during the implementation of a preservation strategy, and develop a framework by which you can assess the success of a particular strategy. It is possible that compromises will have to be accepted because of financial or technical limitations. Therefore, applying a documentation strategy (see sub-section below) can complement one which priorities technical intervention.
+
+Another consideration in developing a preservation strategy is its sustainability. If possible, a preservation strategy should _reduce_ dependencies and _stabilise_ the software so that the frequency interventive preservation measures is reduced. One way to make XR software more widely compatible is to make it hardware-independent. Currently, this goal is best supported by building in [OpenXR](../preserving-xr-hardware/head-mounted-display/openxr.md) support, a widely-adopted open standard for XR software. This maximises options in terms of switching to different XR hardware.
 
 ## Documentation Strategies
 
@@ -44,9 +44,9 @@ Case study applying an incremental migration strategy: LIMA (2021). _A Practical
 
 ## Emulation Strategies
 
-An **emulation strategy** (and allied virtualization strategy) involves using a contemporary computer system to simulate a historical computer system. If there is only an executable, and the source code/project is not available, emulation can become an especially important preservation strategy for 3D software. Through emulation, the software environment is preserved as a whole, including the 3D software and any dependencies (e.g. the XR runtime).&#x20;
+An **emulation strategy** (and allied virtualization strategy) involves using a contemporary computer system to simulate a historical computer system. If there is only an executable, and the source code/project is not available, emulation can become an especially important preservation strategy for 3D software. Through emulation, the software environment is preserved as a whole, including the 3D software and any dependencies (e.g. the [XR runtime](../preserving-xr-hardware/head-mounted-display/#xr-runtime)).&#x20;
 
-Emulation is mentioned at the end of this list, as it is often not expedient in the case of XR material. Gaining access to XR hardware (e.g. an HMD) from an emulated environment has not been successfully achieved in a preservation context, as far as we are aware. However, emulation can become an option if there is no HMD used, but other immersive displayed equipment (e.g. video projectors or monitors) are used instead.&#x20;
+Emulation is mentioned at the end of this list, as it is often of rather limited use in the case of XR material. Gaining access to [XR hardware](/broken/pages/vvgkxh3hGQcJK7lb6Jmr) (e.g. an HMD) from an emulated environment has not been successfully achieved (or at least, documented) in a preservation context, as far as we are aware. However, emulation can be a more viable option if there is no [HMD](../preserving-xr-hardware/head-mounted-display/#head-mounted-displays) used, but other immersive displayed equipment (e.g. video projectors or monitors) are used instead.&#x20;
 
 
 

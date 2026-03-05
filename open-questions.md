@@ -13,8 +13,8 @@ The preservation of immersive media (XR) remains an emerging topic in digital pr
 
 ### XR Software&#x20;
 
-* What does the process of adding OpenXR support to existing 3D software look like? Are there any risks of limitation to this process?&#x20;
-* If an XR experience is so complex to preserve as to be unsustainable, can we support interpretation through documentation alone? See also Documentation above.
+* What does the process of adding [OpenXR](preserving-xr-hardware/head-mounted-display/openxr.md) support to historical (non-OpenXR) [3D software](/broken/pages/9dvten2QyRPU1DJQKfXD) look like? Are there any risks or limitation to this process?&#x20;
+* If an XR experience is so complex to preserve as to be unsustainable, can we support transmission/interpretation through documentation alone? See also Documentation above.
 
 ### XR Hardware
 
@@ -26,8 +26,8 @@ The preservation of immersive media (XR) remains an emerging topic in digital pr
 
 ### 3D File Formats
 
-* Which 3D data file formats are most suitable/sustainable for preservation purposes? Are there any which are not?
-* File format identification - to what extent do these currently support 3D objects?
+* Which 3D data file formats are most suitable/sustainable for preservation purposes? Are there any which are not? Lots of [papers/publications](preserving-3d-software/3d-data.md) on this subject but could do with a review and synthesis.
+* File format identification - to what extent do digipres file format identification tools currently support 3D objects?
 
 ### 360 Video
 

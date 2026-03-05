@@ -42,10 +42,19 @@ Further interactivity and immersion is achieved with tracking systems, which pro
 
 Communication between XR hardware and an XR application (be it 3D software or a 360 degree video player) is contingent on supporting software. This is typically a software package provided by the manufacturer of an XR hardware system. Though this may include a user-facing application (e.g. with a storefront for purchasing content) it is the back-end software components which serve a crucial technical role.
 
+### XR Runtime
+
 The most important component of this package from a preservation perspective is an _XR runtime_, which provides an API and driver to support an interface between XR applications and XR devices. It can also provide features that modify the behaviour of XR applications (e.g. improving performance or image quality). Examples include the Meta Quest Runtime and the SteamVR runtime.&#x20;
 
 <table><thead><tr><th width="161">Runtime Name</th><th width="105.4000244140625">OpenXR Support</th><th width="223.4000244140625">OS Support</th><th>Download Packages</th></tr></thead><tbody><tr><td>Oculus Runtime</td><td>Yes</td><td><p>Android</p><p>Windows 10/11</p></td><td>Current version only downloadable through Oculus client. Legacy version <a href="https://developers.meta.com/horizon/downloads/package/oculus-runtime-for-windows/">available from Meta</a>.</td></tr><tr><td>Meta Horizon</td><td>Yes</td><td><p>Windows 10+</p><p>Android 5.0+</p><p>iOS 15.1+</p></td><td>On Windows  downloaded through <a href="https://www.meta.com/en-gb/help/quest/1517439565442928/">Meta Horizon Link</a> app.</td></tr><tr><td>SteamVR</td><td>Yes</td><td><p>Windows 7 (SP1)</p><p>Windows 8.1 </p><p>Windows 10/11</p></td><td>Can only be downloaded through Steam (see <a href="archiving-an-xr-runtime.md">Archiving XR Runtimes</a>).</td></tr><tr><td>Monado</td><td>Yes</td><td><p>Android</p><p>Linux<br>Windows 10/11</p></td><td>Source code available from <a href="https://gitlab.freedesktop.org/monado/monado">GitLab</a>, build packages available for Debian and Ubuntu only. </td></tr></tbody></table>
 
 Until 2019 there was no standardisation of XR runtimes, which resulted in poor compatibility between software and hardware, making changes to hardware difficult. Support for a specific runtime had to be built into the software during development. The situation has dramatically improved with the arrival of an open standard, called [OpenXR](openxr.md), which helps ensure that devices and software speak the same language. For more information about OpenXR, and guidance on compatibility across hardware and software platforms, see the [OpenXR page](openxr.md).
+
+#### XR Runtime Comptability Layers
+
+If you need to run software with support for a non-OpenXR runtime, you may be able to use a compatibility layer to connect the old runtime to an OpenXR runtime:&#x20;
+
+* [OpenComposite](https://gitlab.com/znixian/OpenOVR) supports the use of SteamVR applications with OpenXR hardware.
+* [Revive](https://github.com/LibreVR/Revive) supports the use of Oculus Runtime applications and SteamVR/OpenXR
 
 [^1]: The spreadsheet was last updated in 2022 and is out of date. For up to date information, refer to the XinReality and Wikipedia sources linked above. If anyone is interested in updating this table, let us know!

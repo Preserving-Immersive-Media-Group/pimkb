@@ -7,8 +7,8 @@ description: >-
 
 # Archiving a Unity 5 Source Project
 
-{% hint style="warning" %}
-Work in progress!
+{% hint style="warning" icon="screwdriver-wrench" %}
+Work in progress
 {% endhint %}
 
 One way of preparing for the preservation of an application made in Unity 5, is to archive the project files associated with it. Executable software is created from a Unity project by exporting an application that supports the target platform. By archiving an Unity project, we aim to gather together all the materials required to carry out to repeat this build process. This opens up options for incremental migration to new versions of Unity, and the modification of code to support other hardware and software platforms.

@@ -1,9 +1,3 @@
----
-description: >-
-  This page is designed to help you understand what Godot is and how it can be
-  used by creators.
----
-
 # Godot
 
 Godot Engine is a free open source 3D game engine for Android, Linux, Mac and Windows. A WebEditor is also available.
@@ -38,5 +32,3 @@ Some information with relevance to XR preservation, quote from the [features lis
 > * **Consoles:** Nintendo Switch, PlayStation 4, Xbox One via third-party providers [(read more).](https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html)
 > * **Export to the web** using HTML5 and WebAssembly.
 > * **One-click deploy & export** to most platforms. Easily create custom builds as well.
-
-###

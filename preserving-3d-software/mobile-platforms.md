@@ -1,6 +1,6 @@
 # Mobile Platforms
 
-Mobile platforms and app services are part of preserving and re-exhibiting AR content and mobile phone-based XR content. This page gathers published research and resources on these topics.
+Mobile platforms and app services are part of preserving and re-exhibiting AR content and mobile phone-based XR content. This page gathers published research and other resources on these topics.
 
 **“Towards a preservation workflow for mobile apps” (24 February 2021)**
 
