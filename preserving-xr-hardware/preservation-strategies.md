@@ -6,18 +6,18 @@ Computer hardware is difficult to preserve in the very long-term as its maintena
 
 If specific or custom hardware is an important component of the XR material you are caring for, the following measures may help you maintain access and prepare for long-term preservation:
 
-**Level 1:**
+⭐ **Level 1:**
 
 * Source at least one set of **exemplar hardware** as a means of providing access in the short-term, particularly if access requirements are immediate.
 * **Gather documentation** of the XR hardware and its components.
   * For off-the-shelf hardware this will typically be very limited, as they are proprietary devices for which detailed technical specifications are not public.
   * For custom hardware devices, source or create circuit diagrams and a bill of materials to support maintenance and repair.
 
-**Level 2:**
+🌟 **Level 2:**
 
 * Create **disk images** of the internal storage media of any computers, to ensure that the complete software environment is stored independently and can be recovered in the event of hardware failure.
 
-**Level 3:**
+🌠 **Level 3:**
 
 * Extract and **archive any related software components** (e.g. the [XR runtime](head-mounted-display/archiving-an-xr-runtime.md) which is required to drive the XR hardware system) from the hardware and/or disk image.
 

@@ -29,28 +29,6 @@ To start developing a preservation plan for 3D software, begin by thinking about
   * Could source materials be **modified** to update the software?&#x20;
 * Has **documentation of the experience** been supplied? If not, can it be created? e.g. fixed-perspective video capture, 360-degree video capture, installation photographs/video
 
-## Preservation Preparedness
-
-The following measures, presented in order of increasing ambition, will help support long-term access to 3D software and prepare for future preservation interventions:
-
-⭐ **First Steps:**&#x20;
-
-* Archive a copy of the executable software.
-* Source or create documentation of the software running.
-
-🌟 **Next Level:**&#x20;
-
-* Identify, gather and test the dependencies required to access the executable software (e.g. operating systems, libraries, XR runtime, drivers).&#x20;
-  * In practice, this may be best created as a disk image, potentially created from the storage media of a tested computer system.
-* Archive a copy of the source materials (be it purely code or a game engine project).
-
-🌠 **Gold Standard:**&#x20;
-
-* Identify, gather and test dependencies required to access and build source materials.
-* If built in a game engine, consider migrating the source project to the latest release (ideally a Long-Term Support release, if available).
-* Create and test builds supporting as many operating systems as possible — see [List of Engines](game-engines/#list-of-engines) for build support per engine.
-* If not already present, add support for the [OpenXR standard](../preserving-xr-hardware/head-mounted-display/openxr.md) (e.g. via a game engine plugin or modifications to the source code) and test this new build.
-
 ## **Further Reading**
 
 Adrian Courrèges (2020), _Graphics Studies Compilation_. URL: [http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)

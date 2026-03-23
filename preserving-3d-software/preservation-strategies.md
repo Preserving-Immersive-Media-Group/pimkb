@@ -6,18 +6,18 @@ XR content is highly dependent on specific hardware, particularly the HMD with i
 
 The following measures, presented in order of increasing ambition, will help support long-term access to 3D software and prepare for future preservation interventions:
 
-**Level 1:**
+⭐ **Level 1:**
 
 * Archive a copy of the **executable software**.
 * **Source or create documentation** of the software running.
 
-**Level 2:**
+🌟 **Level 2:**
 
 * **Identify, gather and test the dependencies** required to access the executable software (e.g. operating systems, libraries, XR runtime, drivers).&#x20;
   * In practice, this may be best created as a disk image, potentially created from the storage media of a tested computer system.
 * Archive a copy of the **source materials** (be it purely code or a game engine project).
 
-**Level 3:**
+🌠 **Level 3:**
 
 * **Identify, gather and test dependencies** required to access and build **source materials**.
 * If built in a game engine, consider **migrating** the source project to the latest release (ideally a Long-Term Support release, if available).
