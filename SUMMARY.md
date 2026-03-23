@@ -45,6 +45,6 @@
 
 * [Introduction](preserving-360-video/360-video.md)
 * [Video Formats](preserving-360-video/video-formats.md)
-* [Metadata Standards](preserving-360-video/metadata-standards.md)
 * [Spatial Audio](preserving-360-video/spatial-audio.md)
-* [Tools](preserving-360-video/tools.md)
+* [Spatial Metadata](preserving-360-video/spatial-metadata.md)
+* [Preservation Strategies](preserving-360-video/preservation-strategies.md)

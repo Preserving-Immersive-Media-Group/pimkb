@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1626379961798-54f819ee896a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx2aXJ0dWFsJTIwcmVhbGl0eXxlbnwwfHx8fDE3NzI3Mjc3MDF8MA&ixlib=rb-4.1.0&q=85
+coverY: 0
+---
+
 # 📍 Preserving Immersive Media Knowledge Base
 
 {% hint style="danger" %}
