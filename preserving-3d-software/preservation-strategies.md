@@ -2,7 +2,29 @@
 
 XR content is highly dependent on specific hardware, particularly the HMD with its sensors, optics and electronics. Unfortunately, any single XR hardware system can be expected to eventually failure, particularly with regular use. Furthermore, the rapid obsolescence of these technologies is likely to eventually render them unrepairable and unreplaceable. Preservation strategies are applied to XR content to maintain access, despite these challenges, and so guide it into the future.&#x20;
 
-## Preparation
+## Preservation Preparedness
+
+The following measures, presented in order of increasing ambition, will help support long-term access to 3D software and prepare for future preservation interventions:
+
+**Level 1:**
+
+* Archive a copy of the **executable software**.
+* **Source or create documentation** of the software running.
+
+**Level 2:**
+
+* **Identify, gather and test the dependencies** required to access the executable software (e.g. operating systems, libraries, XR runtime, drivers).&#x20;
+  * In practice, this may be best created as a disk image, potentially created from the storage media of a tested computer system.
+* Archive a copy of the **source materials** (be it purely code or a game engine project).
+
+**Level 3:**
+
+* **Identify, gather and test dependencies** required to access and build **source materials**.
+* If built in a game engine, consider **migrating** the source project to the latest release (ideally a Long-Term Support release, if available).
+* **Create and test builds** supporting as many operating systems as possible — see [List of Engines](game-engines/#list-of-engines) for build support per engine.
+* If not already present, **add support for the** [**OpenXR standard**](../preserving-xr-hardware/head-mounted-display/openxr.md) (e.g. via a game engine plugin or modifications to the source code) and test this new build.
+
+## Choosing a Strategy
 
 In order to select and successfully apply a preservation strategy, you need to understand what it is you are trying to preserve. In an ideal world, full functionality and the same look and feel would be a preservation goal. However, in the real world technical limitations and limited resources may apply. From the outset of any interventive preservation work, stakeholders need to agree on acceptable degrees of loss or change to the artwork and develop the preservation strategy accordingly.&#x20;
 
@@ -18,28 +40,6 @@ A good starting point for this is our [initial assessment](../getting-started/in
 This approach will help you determine what can and cannot change during the implementation of a preservation strategy, and develop a framework by which you can assess the success of a particular strategy. It is possible that compromises will have to be accepted because of financial or technical limitations. Therefore, applying a documentation strategy (see sub-section below) can complement one which priorities technical intervention.
 
 Another consideration in developing a preservation strategy is its sustainability. If possible, a preservation strategy should _reduce_ dependencies and _stabilise_ the software so that the frequency interventive preservation measures is reduced. One way to make XR software more widely compatible is to make it hardware-independent. Currently, this goal is best supported by building in [OpenXR](../preserving-xr-hardware/head-mounted-display/openxr.md) support, a widely-adopted open standard for XR software. This maximises options in terms of switching to different XR hardware.
-
-### Preservation Preparedness Checklist
-
-The following measures, presented in order of increasing ambition, will help support long-term access to 3D software and prepare for future preservation interventions:
-
-⭐ **First Steps:**&#x20;
-
-* Archive a copy of the executable software.
-* Source or create documentation of the software running.
-
-🌟 **Next Level:**&#x20;
-
-* Identify, gather and test the dependencies required to access the executable software (e.g. operating systems, libraries, XR runtime, drivers).&#x20;
-  * In practice, this may be best created as a disk image, potentially created from the storage media of a tested computer system.
-* Archive a copy of the source materials (be it purely code or a game engine project).
-
-🌠 **Gold Standard:**&#x20;
-
-* Identify, gather and test dependencies required to access and build source materials.
-* If built in a game engine, consider migrating the source project to the latest release (ideally a Long-Term Support release, if available).
-* Create and test builds supporting as many operating systems as possible — see [List of Engines](game-engines/#list-of-engines) for build support per engine.
-* If not already present, add support for the [OpenXR standard](../preserving-xr-hardware/head-mounted-display/openxr.md) (e.g. via a game engine plugin or modifications to the source code) and test this new build.
 
 ## Documentation Strategies
 

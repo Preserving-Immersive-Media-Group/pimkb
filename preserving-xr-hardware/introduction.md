@@ -22,23 +22,4 @@ To start developing a preservation plan for XR hardware, begin by assessing char
   * Is [**spatial audio**](../preserving-360-video/spatial-audio.md) utilised and if so how is it played back? e.g. via positional speakers or head-related transfer function (HRTF) through an [HMD](head-mounted-display/) or headphones.&#x20;
   * Is **subtitling or captioning** used, or might they be needed?&#x20;
 
-## Preservation Preparedness
-
-If specific or custom hardware is an important component of the XR material you are caring for, the following measures may help you maintain access and prepare for long-term preservation:
-
-⭐ **First Steps:**&#x20;
-
-* Source at least one set of **exemplar hardware** as a means of providing access in the short-term, particularly if access requirements are immediate.
-* **Gather documentation** of the XR hardware and its components.
-  * For off-the-shelf hardware this will typically be very limited, as they are proprietary devices for which detailed technical specifications are not public.
-  * For custom hardware devices, source or create circuit diagrams and a bill of materials to support maintenance and repair.
-
-🌟 **Next Level:**&#x20;
-
-* Create **disk images** of the internal storage media of any computers, to ensure that the complete software environment is stored independently and can be recovered in the event of hardware failure.
-
-🌠 **Gold Standard:**&#x20;
-
-* Extract and **archive any related software components** (e.g. the [XR runtime](head-mounted-display/archiving-an-xr-runtime.md) which is required to drive the XR hardware system) from the hardware and/or disk image.
-
 [^1]: **G**raphics **P**rocessing **U**nit, also known as a graphics card or video card.

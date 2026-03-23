@@ -2,6 +2,25 @@
 
 Computer hardware is difficult to preserve in the very long-term as its maintenance is dependent on access to suitable components and specialist knowledge, both of which can be lost with time. XR hardware provides a particularly challenging case study given its complexity and the proprietary nature of most of the equipment available. However, there is the possibility to maintain and repair in the near term, and, providing the appropriate preparations are made, migrate to different hardware should this become unsustainable. Thinking within museum timescales however, hardware-centric preservation is unlikely to be sustainable in the very long-term.
 
+## Preservation Preparedness
+
+If specific or custom hardware is an important component of the XR material you are caring for, the following measures may help you maintain access and prepare for long-term preservation:
+
+**Level 1:**
+
+* Source at least one set of **exemplar hardware** as a means of providing access in the short-term, particularly if access requirements are immediate.
+* **Gather documentation** of the XR hardware and its components.
+  * For off-the-shelf hardware this will typically be very limited, as they are proprietary devices for which detailed technical specifications are not public.
+  * For custom hardware devices, source or create circuit diagrams and a bill of materials to support maintenance and repair.
+
+**Level 2:**
+
+* Create **disk images** of the internal storage media of any computers, to ensure that the complete software environment is stored independently and can be recovered in the event of hardware failure.
+
+**Level 3:**
+
+* Extract and **archive any related software components** (e.g. the [XR runtime](head-mounted-display/archiving-an-xr-runtime.md) which is required to drive the XR hardware system) from the hardware and/or disk image.
+
 ## Maintenance and Repair
 
 Extending the service life of hardware through repair could support preservation efforts if a particular XR system is required. These hardware systems are meant to be used, and in an exhibition context they can be subjected to serious wear and tear.
@@ -18,7 +37,7 @@ iFixit is a US-based company that advocates for reparability of consumer devices
 | **HTC Devices**        | [https://www.ifixit.com/Device/HTC](https://www.ifixit.com/Device/HTC)                                     | [https://www.ifixit.com/en-gb/Parts/HTC\_Vive](https://www.ifixit.com/en-gb/Parts/HTC_Vive) (limited range) |
 | **Samsung Gear VR**    | [https://www.ifixit.com/Search?query=samsung+gear+vr](https://www.ifixit.com/Search?query=samsung+gear+vr) |                                                                                                             |
 
-\*Valve are the only manufacturer supplying official spares for all parts of their hardware. Aftermarket options (e.g. salvage from failed devices) may be best option for anything else.
+\*Valve are the only manufacturer supplying official spares for all parts of their hardware. Aftermarket options (e.g. salvage from failed devices) may be the best option for anything else.
 
 ## Hardware Migration
 
