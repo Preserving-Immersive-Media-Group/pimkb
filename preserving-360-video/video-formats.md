@@ -1,6 +1,6 @@
 # Video Formats
 
-## 360-degree Video Format Properties
+## Format Properties
 
 360-degree video formats build on those used for fixed-perspective video, and the container and codec formats will be familiar to those who have worked with digital video in the past. Additional characteristics, used to support playback at 360-degrees, and common formats are described below.&#x20;
 
