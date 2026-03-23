@@ -14,7 +14,7 @@
 
 ## Getting Started
 
-* [Overview](getting-started/tech-overview.md)
+* [Overview](getting-started/overview.md)
 * [Initial Assessment](getting-started/initial-assessment.md)
 * [Documentation](getting-started/documentation.md)
 * [Further Reading](getting-started/further-reading.md)
